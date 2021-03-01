@@ -31,8 +31,9 @@ experience:
     location: Aarhus, Denmark
     date_start: '2019-08-01'
     date_end: ''
-    description: #|2-
-        Responsibilitie1s include:
+    description: test
+    #|2-
+#        Responsibilities include:
         
 #        * Analysing
 #        * Modelling
