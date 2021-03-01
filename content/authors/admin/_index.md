@@ -4,8 +4,8 @@ role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
 bio: My research interests include solid mechanics, nonlinear elasticity, and
   applied mathematics.
-research interests:
-  - Solid Mechanics 1
+interests:
+  - Solid Mechanics
   - Nonlinear Elasticity
   - Applied Mathematics
   - Soft Materials
