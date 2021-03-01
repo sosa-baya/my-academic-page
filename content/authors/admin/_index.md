@@ -2,12 +2,11 @@
 title: Souhayl Sadik
 role: Postdoctoral Researcher
 avatar_filename: img_0615.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include nonlinear
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Solid Mechanics; Nonlinear Elasticity; Applied Mathematics; Soft Materials;
+    Mechanical Metamaterials; Additive Manufacturing; Morphoelasticity;
+    Biomechanics
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,6 +41,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a mechanician based in Aarhus, Denmark. I am currently working as a postdoctoral researcher in the Mechanical Metamaterials and Soft Matter group within the Department of Mechanical and Production Engineering at Aarhus University**.** My research interests lie within the general areas of solid and engineering mechanics with a view on industrial applications such as in mechanical, structural, manufacturing, robotics, biomechanics, and materials engineering; and on exploring naturally occurring phenomena, such as biological growth and morphogenesis.
+I am a mechanician based in Aarhus, Denmark. I am currently working as a postdoctoral researcher in the Mechanical Metamaterials and Soft Matter group within the Department of Mechanical and Production Engineering at Aarhus University. My research interests lie within the general areas of solid and engineering mechanics with a view on industrial applications such as in mechanical, structural, manufacturing, robotics, biomechanics, and materials engineering; and on exploring naturally occurring phenomena, such as biological growth and morphogenesis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
