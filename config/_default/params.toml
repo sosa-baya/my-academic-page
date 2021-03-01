@@ -93,7 +93,7 @@ email = "souhayl.sadik@mpe.au.dk"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Inge Lehmanns Gade 10", city = "8000 Aarhus C", region = "", postcode = "", country = "Denmark", country_code = "DK"}
+address = {street = "Inge Lehmanns Gade 10", city = "8000 Aarhus C", region = "DK", postcode = "", country = "Denmark", country_code = "DK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
