@@ -16,11 +16,11 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=DJf53OsAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/souhayl-sadik-1673217b/
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
