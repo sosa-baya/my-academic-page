@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
+# Activate this widget? true/false
+active: true
+
 # This file represents a page section.
 headless: true
 
@@ -22,11 +25,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
+  - title: Postdoctoral Researcher
     company: GenCoin
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Aarhus, Denmark
+    date_start: 'Aug 2019'
     date_end: ''
     description: |2-
         Responsibilities include:
