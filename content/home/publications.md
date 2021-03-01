@@ -4,7 +4,7 @@
 widget: publication
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
