@@ -19,6 +19,11 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=DJf53OsAAAAJ&hl=en
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-4880-5989
+    icon_pack: ai
+    icon: orcid
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/souhayl-sadik-1673217b/
