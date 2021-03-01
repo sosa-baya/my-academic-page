@@ -49,7 +49,7 @@ education:
     - course: Diplôme d'Ingénieur, Civil Engineering
       institution: Ecole Hassania des Travaux Publics
       year: 2010
-email: "souhayl.sadik@mpe.au.dk"
+email: souhayl.sadik@mpe.au.dk
 superuser: true
 highlight_name: false
 ---
