@@ -31,12 +31,12 @@ experience:
     location: Aarhus, Denmark
     date_start: 'Aug 2019'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+#    description: |2-
+#        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+#        * Analysing
+#        * Modelling
+#        * Deploying
         
   - title: Professor
     company: University X
