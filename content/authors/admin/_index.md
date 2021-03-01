@@ -22,19 +22,22 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/souhayl-sadik-1673217b/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Aarhus University
+    url: https://international.au.dk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Engineering Science and Mechanics
+      institution: Georgia Institute of Technology
+      year: 2016
+    - course: MSc in Mathematics
+      institution: Georgia Institute of Technology
+      year: 2014
+    - course: MEng in Civil Engineering
+      institution: Ecole des Ponts ParisTech and Ecole Centrale Paris
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Diplôme d'Ingénieur in Civil Engineering
+      institution: Ecole Hassania des Travaux Publics
+      year: 2010
 email: ""
 superuser: true
 highlight_name: false
