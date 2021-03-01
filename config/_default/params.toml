@@ -93,8 +93,8 @@ email = "souhayl.sadik@mpe.au.dk"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
+#address = {street = "Inge Lehmanns Gade 10", city = "8000 Aarhus C, Denmark"}
 address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
-#address = {street = "Inge Lehmanns Gade 10", city = "8000 Aarhus C", region = "DK", postcode = "", country = "USA", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -141,7 +141,7 @@ date_format = "2 Jan 2006"
 time_format = "15:04"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
-address_format = "en-gb"
+address_format = "en-us"
 
 ############################
 ## Advanced
