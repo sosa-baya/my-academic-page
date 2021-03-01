@@ -4,9 +4,13 @@ role: Postdoctoral Researcher
 avatar_filename: img_0615.jpg
 bio: My research interests include nonlinear
 interests:
-  - Solid Mechanics; Nonlinear Elasticity; Applied Mathematics; Soft Materials;
-    Mechanical Metamaterials; Additive Manufacturing; Morphoelasticity;
-    Biomechanics
+  - Solid Mechanics
+  - Nonlinear Elasticity
+  - Applied Mathematics
+  - Soft Materials
+  - Mechanical Metamaterials
+  - Morphoelasticity
+  - Biomechanics
 social:
   - icon: envelope
     icon_pack: fas
