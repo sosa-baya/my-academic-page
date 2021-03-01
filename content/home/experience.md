@@ -32,7 +32,7 @@ experience:
     date_start: '2016-08-01'
     date_end: ''
     description: #|2-
-        Responsibilities include:
+        Responsibilitie1s include:
         
 #        * Analysing
 #        * Modelling
