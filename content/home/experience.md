@@ -29,7 +29,7 @@ experience:
     company: Department of Mechanical and Production Engineering, Aarhus University
     company_url: 'https://mpe.au.dk/en/'
     location: Aarhus, Denmark
-    date_start: 'Aug 2019'
+    date_start: '2016-08-01'
     date_end: ''
 #    description: |2-
 #        Responsibilities include:
