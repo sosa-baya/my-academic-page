@@ -24,14 +24,14 @@ social:
     link: https://orcid.org/0000-0002-4880-5989
     icon_pack: ai
     icon: orcid
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/souhayl-sadik-1673217b/
   - display:
       header: false
     link: https://publons.com/researcher/1635269/souhayl-sadik/
     icon_pack: ai
     icon: publons
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/souhayl-sadik-1673217b/
 organizations:
   - name: Aarhus University
     url: https://international.au.dk/
