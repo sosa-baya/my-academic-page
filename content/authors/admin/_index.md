@@ -37,19 +37,19 @@ organizations:
     url: https://international.au.dk/
 education:
   courses:
-    - course: PhD in Engineering Science and Mechanics
+    - course: PhD, Engineering Science and Mechanics
       institution: Georgia Institute of Technology
       year: 2016
-    - course: MSc in Mathematics
+    - course: MSc, Mathematics
       institution: Georgia Institute of Technology
       year: 2014
-    - course: MEng in Civil Engineering
+    - course: MEng, Civil Engineering
       institution: Ecole des Ponts ParisTech and Ecole Centrale Paris
       year: 2012
-    - course: Diplôme d'Ingénieur in Civil Engineering
+    - course: Diplôme d'Ingénieur, Civil Engineering
       institution: Ecole Hassania des Travaux Publics
       year: 2010
-email: ""
+email: "souhayl.sadik@mpe.au.dk"
 superuser: true
 highlight_name: false
 ---
