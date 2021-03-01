@@ -29,7 +29,7 @@ experience:
     company: Department of Mechanical and Production Engineering, Aarhus University
     company_url: 'https://mpe.au.dk/en/'
     location: Aarhus, Denmark
-    date_start: '2016-08-01'
+    date_start: '2019-08-01'
     date_end: ''
     description: #|2-
         Responsibilitie1s include:
@@ -38,11 +38,11 @@ experience:
 #        * Modelling
 #        * Deploying
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+  - title: Dresden Junior Fellow
+    company: Institute of Scientific Computing, Faculty of Mathematics, TU Dresden
+    company_url: 'https://tu-dresden.de/mn/math/wir/das-institut?set_language=en'
+    location: Dresden, Germany
+    date_start: '2019-02-01'
+    date_end: '2019-05-1'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
