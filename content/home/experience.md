@@ -26,8 +26,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral Researcher
-    company: GenCoin
-    company_url: ''
+    company: Department of Mechanical and Production Engineering, Aarhus University
+    company_url: 'https://mpe.au.dk/en/'
     location: Aarhus, Denmark
     date_start: 'Aug 2019'
     date_end: ''
