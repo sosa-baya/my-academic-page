@@ -51,6 +51,6 @@ experience:
     company: College of Engineering, Georgia Institute of Technology
     company_url: 'https://www.mis.mpg.de/'
     location: Atlanta, GA, USA
-    date_start: '2017-01-01'
-    date_end: '2019-01-31'
+    date_start: '2012-08-01'
+    date_end: '2016-12-31'
 ---
