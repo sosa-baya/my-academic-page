@@ -27,6 +27,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/souhayl-sadik-1673217b/
+  - display:
+      header: false
+    link: https://publons.com/researcher/1635269/souhayl-sadik/
+    icon_pack: ai
+    icon: publons
 organizations:
   - name: Aarhus University
     url: https://international.au.dk/
