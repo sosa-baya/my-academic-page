@@ -31,12 +31,7 @@ experience:
     location: Aarhus, Denmark
     date_start: '2019-08-01'
     date_end: ''
-#    description: |2-
-#        Responsibilities include:
-        
-#        * Analysing
-#        * Modelling
-#        * Deploying
+#    description:
         
   - title: Dresden Junior Fellow
     company: Institute of Scientific Computing, Faculty of Mathematics, TU Dresden
@@ -44,11 +39,17 @@ experience:
     location: Dresden, Germany
     date_start: '2019-02-01'
     date_end: '2019-05-01'
-#    description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Postdoctoral Research Fellow
     company: Max Planck Institute for Mathematics in the Sciences
     company_url: 'https://www.mis.mpg.de/'
     location: Leipzig, Germany
+    date_start: '2017-01-01'
+    date_end: '2019-01-31'
+
+  - title: Fulbright Scholar – Graduate Research Assistant
+    company: College of Engineering, Georgia Institute of Technology
+    company_url: 'https://www.mis.mpg.de/'
+    location: Atlanta, GA, USA
     date_start: '2017-01-01'
     date_end: '2019-01-31'
