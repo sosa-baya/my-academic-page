@@ -34,3 +34,4 @@ url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1098/rspa.2016.0659
 ---
+{{< figure src="Small-1.PNG">}}
