@@ -37,7 +37,7 @@ publication_short: "MMS, 22(7)"
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
