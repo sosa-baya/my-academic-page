@@ -13,7 +13,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2015-09-14"
+date: "2015-09-14T00:00:00Z"
 doi: "https://doi.org/10.1177%2F1081286515599458"
 
 # Schedule page publish date (NOT publication's date).
