@@ -17,7 +17,7 @@ date: "2015-09-14T00:00:00Z"
 doi: "https://doi.org/10.1177%2F1081286515599458"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2015-09-14T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,8 +26,8 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Mathematics and Mechanics of Solids, Vol 22, Issue 7, 2017
-publication_short: MMS, 22(7)
+publication: "Mathematics and Mechanics of Solids, Vol 22, Issue 7, 2017"
+publication_short: "MMS, 22(7)"
 
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
