@@ -1,5 +1,5 @@
 ---
-title: "**Souhayl Sadik**"
+title: Souhayl Sadik
 role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
 bio: My research interests include solid mechanics, nonlinear elasticity, and
