@@ -23,7 +23,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Marcelo Az. Dias
+  - Marcelo A. Dias
 url_dataset: ""
 url_project: ""
 publication_short: ""
