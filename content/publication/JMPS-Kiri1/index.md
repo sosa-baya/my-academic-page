@@ -43,4 +43,3 @@ url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1016/j.jmps.2021.104370
 ---
-{{< video library="true" src="Kiri1-2.mp4" controls="yes" >}}
