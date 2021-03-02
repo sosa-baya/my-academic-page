@@ -1,5 +1,5 @@
 ---
-title: "Small-on-Large Geometric Anelasticity 1"
+title: "Small-on-Large Geometric Anelasticity"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
