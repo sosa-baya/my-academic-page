@@ -44,3 +44,5 @@ url_code: ""
 doi: https://doi.org/10.1016/j.jmps.2021.104370
 ---
 {{< video src="Mov-2.mp4" controls="yes" type="video/mp4">}}
+
+{{< figure src="Mov-2.gif" title="A caption" >}}
