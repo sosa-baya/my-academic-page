@@ -37,7 +37,7 @@ title: "On Local Kirigami Mechanics I: Isometric Conical Solutions"
 tags: []
 projects: []
 image:
-  filename: mov-2.gif
+  filename: ""
 publishDate: 2021-02-23T00:00:00.000Z
 url_poster: ""
 url_code: ""
