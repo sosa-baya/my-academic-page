@@ -1,77 +1,43 @@
 ---
-title: "On Local Kirigami Mechanics I: Isometric Conical Solutions"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: "Over the past decade, kirigami—the Japanese art of paper cutting—has
+  been playing an increasing role in the emerging field of mechanical
+  metamatertials and a myriad of other mechanical applications. Nonetheless, a
+  deep understanding of the mathematics and mechanics of kirigami structures is
+  yet to be achieved in order to unlock their full potential to pioneer more
+  advanced applications in the field. In this work, we study the most
+  fundamental geometric building block of kirigami: a thin sheet with a single
+  cut. We consider a reduced two-dimensional plate model of a circular thin disk
+  with a radial slit and investigate its deformation following the opening of
+  the slit and the rotation of its lips. In the isometric limit—as the thickness
+  of the disk approaches zero—the elastic energy has no stretching contribution
+  and the thin sheet takes a conical shape known as the e-cone. We solve the
+  post-buckling problem for the e-cone in the geometrically nonlinear setting
+  assuming a Saint Venant-Kirchhoff constitutive plate model; we find
+  closed-form expressions for the stress fields and show the geometry of the
+  e-cone to be governed by the spherical elastica problem. This allows us to
+  fully map out the space of solutions and investigate the stability of the
+  post-buckled e-cone problem assuming mirror symmetric boundary conditions on
+  the rotation of the lips on the open slit."
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Marcelo A. Dias
-
-# Author notes (optional)
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
-
-date: "2021-02-23T00:00:00Z"
-doi: "https://doi.org/10.1016/j.jmps.2021.104370"
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2021-02-23T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
-
-# Publication name and optional abbreviated publication name.
-publication: "Journal of the Mechanics and Physics of Solids, In Press"
+  - admin
+  - Marcelo A. Dias
+url_dataset: ""
+url_project: ""
 publication_short: ""
-
-#abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+url_source: ""
+url_video: ""
+publication: Journal of the Mechanics and Physics of Solids, In Press
 featured: false
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ""
-#  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
+date: 2021-02-23T00:00:00Z
+url_slides: ""
+title: "On Local Kirigami Mechanics I: Isometric Conical Solutions"
+tags: []
 projects: []
-#- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-# slides: example
+publishDate: 2021-02-23T00:00:00Z
+url_poster: ""
+url_code: ""
+doi: https://doi.org/10.1016/j.jmps.2021.104370
 ---
