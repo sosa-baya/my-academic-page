@@ -1,79 +1,48 @@
 ---
-title: "A Geometric Theory of Nonlinear Morphoelastic Shells"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: "Many thin three-dimensional elastic bodies can be reduced to elastic
+  shells: two-dimensional elastic bodies whose reference shape is not
+  necessarily flat. More generally, morphoelastic shells are elastic shells that
+  can remodel and grow in time. These idealized objects are suitable models for
+  many physical, engineering, and biological systems. Here, we formulate a
+  general geometric theory of nonlinear morphoelastic shells that describes both
+  the evolution of the body shape, viewed as an orientable surface, as well as
+  its intrinsic material properties such as its reference curvatures. In this
+  geometric theory, bulk growth is modeled using an evolving referential
+  configuration for the shell, the so-called material manifold. Geometric
+  quantities attached to the surface, such as the first and second fundamental
+  forms, are obtained from the metric of the three-dimensional body and its
+  evolution. The governing dynamical equations for the body are obtained from
+  variational consideration by assuming that both fundamental forms on the
+  material manifold are dynamical variables in a Lagrangian field theory. In the
+  case where growth can be modeled by a Rayleigh potential, we also obtain the
+  governing equations for growth in the form of kinetic equations coupling the
+  evolution of the first and the second fundamental forms with the state of
+  stress of the shell. We apply these ideas to obtain stress-free growth fields
+  of a planar sheet, the time evolution of a morphoelastic circular cylindrical
+  shell subject to time-dependent internal pressure, and the residual stress of
+  a morphoelastic planar circular shell."
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Arzhang Angoshtari
-- Alain Goriely
-- Arash Yavari
-
-# Author notes (optional)
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
-
-date: "2016-05-25T00:00:00Z"
-doi: "https://doi.org/10.1007/s00332-016-9294-9"
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2016-05-25T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
-
-# Publication name and optional abbreviated publication name.
-publication: "Journal of Nonlinear Science 26(4)"
+  - admin
+  - Arzhang Angoshtari
+  - Alain Goriely
+  - Arash Yavari
+url_dataset: ""
+url_project: ""
 publication_short: ""
-
-#abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+url_source: ""
+url_video: ""
+publication: Journal of Nonlinear Science 26(4)
 featured: false
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ""
-#  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
+date: 2016-05-25T00:00:00Z
+url_slides: ""
+title: A Geometric Theory of Nonlinear Morphoelastic Shells
+tags: []
 projects: []
-#- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-# slides: example
+publishDate: 2016-05-25T00:00:00Z
+url_poster: ""
+url_code: ""
+doi: https://doi.org/10.1007/s00332-016-9294-9
 ---
