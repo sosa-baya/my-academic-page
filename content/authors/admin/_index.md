@@ -38,8 +38,8 @@ organizations:
 education:
   courses:
     - course: PhD, Engineering Science and Mechanics
-      institution: Georgia Institute of Technology - T
-      url: https://www.gatech.edu/academics/degrees/phd/engineering-science-and-mechanics-phd
+      institution: Georgia Institute of Technology
+      link: https://www.gatech.edu/academics/degrees/phd/engineering-science-and-mechanics-phd
       year: 2016
     - course: MSc, Mathematics
       institution: Georgia Institute of Technology
