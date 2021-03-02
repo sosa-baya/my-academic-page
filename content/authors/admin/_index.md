@@ -7,10 +7,9 @@ interests:
   - Solid Mechanics
   - Nonlinear Elasticity
   - Applied Mathematics
-  - Soft Materials
   - Mechanical Metamaterials
+  - Soft Materials
   - Morphoelasticity
-  - Biomechanics
 social:
   - icon: envelope
     icon_pack: fas
