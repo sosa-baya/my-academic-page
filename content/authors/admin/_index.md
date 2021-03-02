@@ -32,12 +32,12 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/souhayl-sadik-1673217b/
 organizations:
-  - name: Aarhus University
-    url: https://international.au.dk/
+  - name: Department of Mechanical and Production Engineering, Aarhus University
+    url: https://mpe.au.dk/en/
 education:
   courses:
     - course: PhD, Engineering Science and Mechanics
-      institution: Georgia Institute of Technology
+      institution: "[Georgia Institute of Technology](https://www.gatech.edu/)
       year: 2016
     - course: MSc, Mathematics
       institution: Georgia Institute of Technology
