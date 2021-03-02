@@ -43,4 +43,4 @@ url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1016/j.jmps.2021.104370
 ---
-{{< figure src="Mov 2.gif" title="test" >}}
+{{< figure src="Mov 2.gif" title="" >}}
