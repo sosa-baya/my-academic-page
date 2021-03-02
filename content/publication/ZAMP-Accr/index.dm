@@ -5,8 +5,6 @@ title: "Nonlinear Mechanics of Thermoelastic Accretion"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Fabio Sozio
-- Mostafa Faghih Shojaei
 - admin
 - Arash Yavari
 
@@ -15,11 +13,11 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2020-05-15T00:00:00Z"
-doi: "https://doi.org/10.1007/s00033-020-01309-5"
+date: "2016-11-01T00:00:00Z"
+doi: "https://doi.org/10.1098/rspa.2016.0659"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-15T00:00:00Z"
+publishDate: "2016-11-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,7 +26,7 @@ publishDate: "2020-05-15T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Zeitschrift für angewandte Mathematik und Physik, 71(3)"
+publication: "Proceedings of the Royal Society A, 472(2195)"
 publication_short: ""
 
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
