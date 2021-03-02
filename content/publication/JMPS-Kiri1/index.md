@@ -31,12 +31,14 @@ url_source: ""
 url_video: ""
 publication: Journal of the Mechanics and Physics of Solids, In Press
 featured: false
-date: 2021-02-23T00:00:00Z
+date: 2021-02-23T00:00:00.000Z
 url_slides: ""
 title: "On Local Kirigami Mechanics I: Isometric Conical Solutions"
 tags: []
 projects: []
-publishDate: 2021-02-23T00:00:00Z
+image:
+  filename: mov-2.gif
+publishDate: 2021-02-23T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1016/j.jmps.2021.104370
