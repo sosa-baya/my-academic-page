@@ -34,3 +34,4 @@ url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1007/s00033-020-01309-5
 ---
+{{< figure src="Accr-1.PNG" title="Configurations of an accreting block" >}}
