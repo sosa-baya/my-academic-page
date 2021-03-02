@@ -2,8 +2,8 @@
 title: Souhayl Sadik
 role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
-bio: My research interests include solid mechanics, nonlinear elasticity, and
-  applied mathematics.
+bio: My research interests lie in the crossroads of engineering, mechanics, and
+  mathematical modelling.
 interests:
   - Solid Mechanics
   - Nonlinear Elasticity
