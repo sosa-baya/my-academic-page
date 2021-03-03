@@ -20,6 +20,13 @@ publication_types:
 authors:
   - admin
   - Arash Yavari
+
+links:
+- icon: link
+  icon_pack: fas
+  name: Article
+  url: https://doi.org/10.1177%2F1081286515599458
+  
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -35,5 +42,5 @@ projects: []
 publishDate: 2015-09-14T00:00:00Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1177%2F1081286515599458
+doi:
 ---
