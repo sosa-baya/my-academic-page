@@ -23,6 +23,9 @@ links:
   icon_pack: fas
   name: Journal
   url: https://doi.org/10.1098/rspa.2016.0659
+
+image:
+  preview_only: false
   
 url_dataset: ""
 url_project: ""
@@ -41,4 +44,3 @@ url_poster: ""
 url_code: ""
 doi:
 ---
-{{< figure src="Small-1.PNG">}}
