@@ -1,5 +1,5 @@
 ---
-title: "On Local Kirigami Mechanics I: Isometric Conical Solutions"
+title: "On Local Kirigami Mechanics I: Isometric Conical Solutions 25"
 publication_types:
   - "2"
 authors:
@@ -21,5 +21,4 @@ links:
     url: https://arxiv.org/abs/2009.03448
 date: 2021-02-23T00:00:00.000Z
 publishDate: 2021-02-23T00:00:00.000Z
-
 ---
