@@ -30,8 +30,6 @@ links:
   icon_pack: fas
   name: Article
   url: https://doi.org/10.1016/j.jmps.2021.104370
-
-links:
 - icon: arxiv
   icon_pack: ai
   name: arXiv
