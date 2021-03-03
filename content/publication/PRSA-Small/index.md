@@ -1,5 +1,6 @@
 ---
-abstract: '<div style="text-align: justify">In this paper, we are concerned with
+abstract: '![Alt Text](featured.png)
+<div style="text-align: justify">In this paper, we are concerned with
   finding exact solutions for the stress fields of nonlinear solids with
   non-symmetric distributions of defects (or more generally finite eigenstrains)
   that are small perturbations of symmetric distributions of defects with known
@@ -11,8 +12,7 @@ abstract: '<div style="text-align: justify">In this paper, we are concerned with
   classical small-on-large theory in nonlinear elasticity. We use the present
   small-on-large anelasticity theory to find exact solutions for the stress
   fields of some non-symmetric distributions of screw dislocations in
-  incompressible isotropic solids.</div>
-![Alt Text](featured.png)'
+  incompressible isotropic solids.</div>'
 url_pdf: ""
 publication_types:
   - "2"
