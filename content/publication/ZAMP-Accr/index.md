@@ -20,6 +20,7 @@ authors:
 
 image:
   filename: "Accr-1.PNG"
+  preview_only: false
 
 links:
 - icon: link
