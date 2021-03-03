@@ -27,5 +27,4 @@ publishDate: 2016-11-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: null
-#![Alt Text](fig.png)
 ---
