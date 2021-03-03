@@ -17,6 +17,13 @@ publication_types:
 authors:
   - admin
   - Arash Yavari
+
+links:
+- icon: link
+  icon_pack: fas
+  name: Article
+  url: https://doi.org/10.1098/rspa.2016.0659
+  
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -32,6 +39,6 @@ projects: []
 publishDate: 2016-11-01T00:00:00Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1098/rspa.2016.0659
+doi:
 ---
 {{< figure src="Small-1.PNG">}}
