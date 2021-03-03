@@ -21,7 +21,12 @@ authors:
 image:
   filename: "Accr-1.PNG"
 
-
+links:
+- icon: link
+  icon_pack: fas
+  name: Article
+  url: https://doi.org/10.1007/s00033-020-01309-5
+  
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -37,6 +42,6 @@ projects: []
 publishDate: 2020-05-15T00:00:00Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1007/s00033-020-01309-5
+doi:
 ---
 
