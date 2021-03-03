@@ -31,5 +31,4 @@ publishDate: 2021-02-23T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: null
-#[Alt Text](mov.gif)
 ---
