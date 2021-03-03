@@ -21,7 +21,7 @@ authors:
 links:
 - icon: link
   icon_pack: fas
-  name: Article
+  name: Journal
   url: https://doi.org/10.1098/rspa.2016.0659
   
 url_dataset: ""
