@@ -17,17 +17,6 @@ authors:
   - Mostafa Faghih Shojaei
   - admin
   - Arash Yavari
-
-image:
-  filename: "Accr-1.PNG"
-  preview_only: true
-
-links:
-- icon: link
-  icon_pack: fas
-  name: Journal
-  url: https://doi.org/10.1007/s00033-020-01309-5
-  
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -35,14 +24,21 @@ url_source: ""
 url_video: ""
 publication: Zeitschrift für Angewandte Mathematik und Physik, 71(3)
 featured: false
-date: 2020-05-15T00:00:00Z
+date: 2020-05-15T00:00:00.000Z
 url_slides: ""
-title: Nonlinear mechanics of thermoelastic accretion
+title: Nonlinear Mechanics of Thermoelastic Accretion
 tags: []
+links:
+  - icon: link
+    icon_pack: fas
+    name: Journal
+    url: https://doi.org/10.1007/s00033-020-01309-5
 projects: []
-publishDate: 2020-05-15T00:00:00Z
+image:
+  filename: Accr-1.PNG
+  preview_only: true
+publishDate: 2020-05-15T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi:
+doi: null
 ---
-
