@@ -16,6 +16,13 @@ authors:
   - Ashkan Golgoon
   - admin
   - Arash Yavari
+
+links:
+- icon: link
+  icon_pack: fas
+  name: Article
+  url: https://doi.org/10.1016/j.ijnonlinmec.2016.04.007
+
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -32,5 +39,5 @@ projects: []
 publishDate: 2016-04-26T00:00:00Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1016/j.ijnonlinmec.2016.04.007
+doi: ""
 ---
