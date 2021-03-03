@@ -11,7 +11,8 @@ abstract: '<div style="text-align: justify">In this paper, we are concerned with
   classical small-on-large theory in nonlinear elasticity. We use the present
   small-on-large anelasticity theory to find exact solutions for the stress
   fields of some non-symmetric distributions of screw dislocations in
-  incompressible isotropic solids.</div>'
+  incompressible isotropic solids.</div>
+![Alt Text](featured.png)'
 url_pdf: ""
 publication_types:
   - "2"
