@@ -24,6 +24,11 @@ publication_types:
 authors:
   - admin
   - Marcelo A. Dias
+links:
+- icon: fa-link
+  icon_pack: fas
+  name: Journal
+  url: https://doi.org/10.1016/j.jmps.2021.104370
 url_dataset: ""
 url_project: ""
 publication_short: ""
