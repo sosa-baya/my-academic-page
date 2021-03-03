@@ -52,6 +52,6 @@ image:
 publishDate: 2021-02-23T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: ""
+doi:
 ---
 {{< video src="Mov-2.mp4" controls="yes" type="video/mp4">}}
