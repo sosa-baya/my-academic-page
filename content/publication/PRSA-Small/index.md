@@ -36,8 +36,6 @@ links:
     name: Journal
     url: https://doi.org/10.1098/rspa.2016.0659
 projects: []
-image:
-  preview_only: false
 publishDate: 2016-11-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
