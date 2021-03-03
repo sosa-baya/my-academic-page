@@ -25,7 +25,7 @@ authors:
   - admin
   - Marcelo A. Dias
 links:
-- icon: fa-link
+- icon: link
   icon_pack: fas
   name: Journal
   url: https://doi.org/10.1016/j.jmps.2021.104370
