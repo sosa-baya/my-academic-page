@@ -32,7 +32,6 @@ url_poster: ""
 url_code: ""
 doi: null
 ---
-![Alt Text](mov.gif)
 
 <big><b>Abstract</b></big>
 <div style="text-align: justify">
@@ -55,3 +54,5 @@ doi: null
   This allows us to fully map out the space of solutions and investigate the
   stability of the post-buckled e-cone problem assuming mirror symmetric
   boundary conditions on the rotation of the lips on the open slit.</div>
+
+![Alt Text](mov.gif)
