@@ -1,5 +1,5 @@
 ---
-abstract: '![Alt Text](Mov-2.gif)
+abstract: '![Alt Text](mov.gif)
 <div style="text-align: justify">Over the past decade, kirigami—the
   Japanese art of paper cutting—has been playing an increasing role in the
   emerging field of mechanical metamatertials and a myriad of other mechanical
