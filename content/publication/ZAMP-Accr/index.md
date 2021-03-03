@@ -35,7 +35,7 @@ links:
     url: https://doi.org/10.1007/s00033-020-01309-5
 projects: []
 image:
-  filename: Accr-1.PNG
+  filename: "Accr-1.PNG"
   preview_only: true
 publishDate: 2020-05-15T00:00:00.000Z
 url_poster: ""
