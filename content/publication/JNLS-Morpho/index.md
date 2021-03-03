@@ -29,6 +29,13 @@ authors:
   - Arzhang Angoshtari
   - Alain Goriely
   - Arash Yavari
+
+links:
+- icon: link
+  icon_pack: fas
+  name: Article
+  url: https://doi.org/10.1007/s00332-016-9294-9
+  
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -44,5 +51,5 @@ projects: []
 publishDate: 2016-05-25T00:00:00Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1007/s00332-016-9294-9
+doi:
 ---
