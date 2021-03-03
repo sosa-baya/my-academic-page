@@ -24,7 +24,7 @@ authors:
 links:
 - icon: link
   icon_pack: fas
-  name: Article
+  name: Journal
   url: https://doi.org/10.1177%2F1081286515599458
   
 url_dataset: ""
