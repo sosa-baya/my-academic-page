@@ -17,6 +17,11 @@ authors:
   - Mostafa Faghih Shojaei
   - admin
   - Arash Yavari
+
+image:
+  filename: "Accr-1.PNG"
+
+
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -34,4 +39,4 @@ url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1007/s00033-020-01309-5
 ---
-{{< figure src="Accr-1.PNG">}}
+
