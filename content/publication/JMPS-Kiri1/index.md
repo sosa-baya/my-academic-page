@@ -17,7 +17,8 @@ abstract: '<div style="text-align: justify">Over the past decade, kirigami—the
   the geometry of the e-cone to be governed by the spherical elastica problem.
   This allows us to fully map out the space of solutions and investigate the
   stability of the post-buckled e-cone problem assuming mirror symmetric
-  boundary conditions on the rotation of the lips on the open slit.</br>![Alt Text](mov.gif)</div>'
+  boundary conditions on the rotation of the lips on the open slit.
+  ![Alt Text](mov.gif)</div>'
 url_pdf: ""
 publication_types:
   - "2"
