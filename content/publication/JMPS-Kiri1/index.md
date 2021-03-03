@@ -24,11 +24,19 @@ publication_types:
 authors:
   - admin
   - Marcelo A. Dias
+
 links:
 - icon: link
   icon_pack: fas
-  name: Journal
+  name: Article
   url: https://doi.org/10.1016/j.jmps.2021.104370
+
+links:
+- icon: arxiv
+  icon_pack: ai
+  name: arXiv
+  url: https://arxiv.org/abs/2009.03448
+
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -46,6 +54,6 @@ image:
 publishDate: 2021-02-23T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1016/j.jmps.2021.104370
+doi: ""
 ---
 {{< video src="Mov-2.mp4" controls="yes" type="video/mp4">}}
