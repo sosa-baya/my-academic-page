@@ -20,7 +20,7 @@ tags: []
 links:
   - icon: link
     icon_pack: fas
-    name: Journal
+    name: Publisher
     url: https://doi.org/10.1016/j.jmps.2021.104370
   - icon: arxiv
     icon_pack: ai

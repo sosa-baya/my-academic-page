@@ -33,7 +33,7 @@ tags: []
 links:
   - icon: link
     icon_pack: fas
-    name: Journal
+    name: Publisher
     url: https://doi.org/10.1098/rspa.2016.0659
 projects: []
 publishDate: 2016-11-01T00:00:00.000Z

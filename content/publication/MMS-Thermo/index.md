@@ -34,7 +34,7 @@ tags: []
 links:
   - icon: link
     icon_pack: fas
-    name: Journal
+    name: Publisher
     url: https://doi.org/10.1177%2F1081286515599458
 projects: []
 publishDate: 2015-09-14T00:00:00.000Z
