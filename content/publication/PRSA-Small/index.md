@@ -1,5 +1,5 @@
 ---
-abstract: '![Alt Text](featured.png)
+abstract: '![Alt Text](fig.png)
 <div style="text-align: justify">In this paper, we are concerned with
   finding exact solutions for the stress fields of nonlinear solids with
   non-symmetric distributions of defects (or more generally finite eigenstrains)
