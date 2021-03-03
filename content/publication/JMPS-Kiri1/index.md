@@ -1,5 +1,5 @@
 ---
-abstract: '<div style="text-align: justify">Over the past decade, kirigami—the
+abstract: '<div style="text-align: justify">1 Over the past decade, kirigami—the
   Japanese art of paper cutting—has been playing an increasing role in the
   emerging field of mechanical metamatertials and a myriad of other mechanical
   applications. Nonetheless, a deep understanding of the mathematics and
