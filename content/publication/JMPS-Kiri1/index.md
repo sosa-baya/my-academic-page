@@ -34,7 +34,6 @@ doi: null
 ---
 ![Alt Text](mov.gif)
 
-
 <div style="text-align: justify">
   <big><big><b>Abstract</b></big></big><br>
   Over the past decade, kirigami—the
