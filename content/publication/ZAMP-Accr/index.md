@@ -9,7 +9,7 @@ abstract: >-
   process. This suggests the possibility to predict and control thermal
   accretion processes of soft materials by manipulating thermal parameters, and
   therefore, to realize additively manufactured soft objects with the desired
-  characteristics and performances.</div>
+  characteristics and performances.</div><br>
 
   ![Alt Text](fig.png)
 url_pdf: ""
