@@ -35,8 +35,7 @@ links:
     url: https://doi.org/10.1007/s00033-020-01309-5
 projects: []
 image:
-  preview_only: true
-  filename: featured.PNG
+  preview_only: false
 publishDate: 2020-05-15T00:00:00.000Z
 url_poster: ""
 url_code: ""
