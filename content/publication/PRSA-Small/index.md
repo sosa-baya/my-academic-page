@@ -27,16 +27,16 @@ publication: Proceedings of the Royal Society A, 472(2195)
 featured: false
 date: 2016-11-01T00:00:00.000Z
 url_slides: ""
-title: Small-on-Large Geometric Anelasticity
+title: Geometric Nonlinear Thermoelasticity and the Time Evolution of Thermal Stresses
 tags: []
 links:
   - icon: link
     icon_pack: fas
     name: Journal
     url: https://doi.org/10.1098/rspa.2016.0659
-projects: []02:42 03/03/2021
+projects: []
 publishDate: 2016-11-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: 
+doi: null
 ---
