@@ -51,6 +51,6 @@ email: souhayl.sadik@mpe.au.dk
 superuser: true
 highlight_name: true
 ---
-<div style="text-align: right">I am a mechanician based in Aarhus, Denmark. I am currently working as a postdoctoral researcher in the Mechanical Metamaterials and Soft Matter group within the Department of Mechanical and Production Engineering at Aarhus University. My research interests lie in the crossroads of engineering, mechanics, and applied mathematics with a view on industrial applications such as in mechanical, structural, and materials engineering; and on exploring naturally occurring phenomena, such as biological growth and morphogenesis.</div>
+<div style="text-align: justify">I am a mechanician based in Aarhus, Denmark. I am currently working as a postdoctoral researcher in the Mechanical Metamaterials and Soft Matter group within the Department of Mechanical and Production Engineering at Aarhus University. My research interests lie in the crossroads of engineering, mechanics, and applied mathematics with a view on industrial applications such as in mechanical, structural, and materials engineering; and on exploring naturally occurring phenomena, such as biological growth and morphogenesis.</div>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Sadik_S_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
