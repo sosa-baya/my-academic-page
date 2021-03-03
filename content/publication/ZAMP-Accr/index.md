@@ -32,4 +32,6 @@ doi: null
 ---
 ![Alt Text](fig.png)
 
-<div style="text-align: justify">In this paper, we formulate a theory for the coupling of accretion mechanics and thermoelasticity. We present an analytical formulation of the thermoelastic accretion of an infinite cylinder and of a two-dimensional block. We develop numerical schemes for the solution of these two problems, and numerically calculate residual stresses and observe a strong dependence of the final mechanical state on the parameters of the accretion process. This suggests the possibility to predict and control thermal accretion processes of soft materials by manipulating thermal parameters, and therefore, to realize additively manufactured soft objects with the desired characteristics and performances.</div>
+<div style="text-align: justify">
+  <big><big><b>Abstract</b></big></big><br>
+  In this paper, we formulate a theory for the coupling of accretion mechanics and thermoelasticity. We present an analytical formulation of the thermoelastic accretion of an infinite cylinder and of a two-dimensional block. We develop numerical schemes for the solution of these two problems, and numerically calculate residual stresses and observe a strong dependence of the final mechanical state on the parameters of the accretion process. This suggests the possibility to predict and control thermal accretion processes of soft materials by manipulating thermal parameters, and therefore, to realize additively manufactured soft objects with the desired characteristics and performances.</div>
