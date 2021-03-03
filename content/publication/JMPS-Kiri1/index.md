@@ -27,8 +27,9 @@ authors:
 url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: "https://doi.org/10.1016/j.jmps.2021.104370"
+url_source: ""
 url_video: ""
+url_Journal: "https://doi.org/10.1016/j.jmps.2021.104370"
 publication: Journal of the Mechanics and Physics of Solids, In Press
 featured: false
 date: 2021-02-23T00:00:00.000Z
