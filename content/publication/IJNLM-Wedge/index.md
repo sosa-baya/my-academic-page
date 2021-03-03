@@ -20,7 +20,7 @@ authors:
 links:
 - icon: link
   icon_pack: fas
-  name: Article
+  name: Journal
   url: https://doi.org/10.1016/j.ijnonlinmec.2016.04.007
 
 url_dataset: ""
