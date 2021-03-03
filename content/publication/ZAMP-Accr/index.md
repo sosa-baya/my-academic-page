@@ -22,7 +22,7 @@ tags: []
 links:
   - icon: link
     icon_pack: fas
-    name: Journal
+    name: Publisher
     url: https://doi.org/10.1007/s00033-020-01309-5
 projects: []
 publishDate: 2020-05-15T00:00:00.000Z
