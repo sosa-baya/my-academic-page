@@ -18,16 +18,14 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Fabio Sozio
-  - Mostafa Faghih Shojaei
   - admin
-  - Arash Yavari
+  - Marcelo A. Dias
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: Zeitschrift für Angewandte Mathematik und Physik, 71(3)
+publication: Journal of the Mechanics and Physics of Solids, In Press
 featured: false
 date: 2020-05-15T00:00:00.000Z
 url_slides: ""
