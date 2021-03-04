@@ -29,7 +29,7 @@ publication: Journal of the Mechanics and Physics of Solids, <em>In Press</em>
 featured: false
 date: 2021-02-23T00:00:00.000Z
 url_slides: ""
-title: Nonlinear Mechanics of Thermoelastic Accretion
+title: On Local Kirigami Mechanics I: Isometric Conical Solutions
 tags: []
 links:
   - icon: link
