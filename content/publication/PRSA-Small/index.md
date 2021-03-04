@@ -6,7 +6,7 @@ authors:
   - admin
   - Arash Yavari
 publication: Proceedings of the Royal Society A, 472(2195)
-abstract: q
+abstract:
 date: 2016-11-01T00:00:00.000Z
 links:
   - icon: link
