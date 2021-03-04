@@ -18,7 +18,7 @@ url_slides: ""
 title: 'On Local Kirigami Mechanics I: Isometric Conical Solutions'
 tags: []
 links:
-  - icon: link
+  - icon: newspaper
     icon_pack: fas
     name: Publisher
     url: https://doi.org/10.1016/j.jmps.2021.104370

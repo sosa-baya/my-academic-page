@@ -19,7 +19,7 @@ title: On the Origins of the Idea of the Multiplicative Decomposition of the
   Deformation Gradient
 tags: []
 links:
-  - icon: link
+  - icon: newspaper
     icon_pack: fas
     name: Publisher
     url: https://doi.org/10.1177%2F1081286515612280

@@ -20,7 +20,7 @@ url_slides: ""
 title: A Geometric Theory of Nonlinear Morphoelastic Shells
 tags: []
 links:
-  - icon: link
+  - icon: newspaper
     icon_pack: fas
     name: Publisher
     url: https://doi.org/10.1007/s00332-016-9294-9

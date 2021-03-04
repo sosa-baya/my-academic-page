@@ -19,7 +19,7 @@ url_slides: ""
 title: Nonlinear Elasticity in a Deforming Ambient Space
 tags: []
 links:
-  - icon: link
+  - icon: newspaper
     icon_pack: fas
     name: Publisher
     url: https://doi.org/10.1007/s00332-016-9315-8

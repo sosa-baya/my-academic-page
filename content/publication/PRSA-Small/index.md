@@ -18,7 +18,7 @@ url_slides: ""
 title: Small-on-Large Geometric Anelasticity
 tags: []
 links:
-  - icon: link
+  - icon: newspaper
     icon_pack: fas
     name: Publisher
     url: https://doi.org/10.1098/rspa.2016.0659
