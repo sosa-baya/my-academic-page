@@ -27,7 +27,7 @@ url_source: ""
 url_video: ""
 publication: Journal of the Mechanics and Physics of Solids, In Press
 featured: false
-date: 2020-05-15T00:00:00.000Z
+date: 2021-02-23T00:00:00.000Z
 url_slides: ""
 title: Nonlinear Mechanics of Thermoelastic Accretion
 tags: []
@@ -37,7 +37,7 @@ links:
     name: Publisher
     url: https://doi.org/10.1007/s00033-020-01309-5
 projects: []
-publishDate: 2020-05-15T00:00:00.000Z
+publishDate: 2021-02-23T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: null
