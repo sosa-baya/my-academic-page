@@ -6,7 +6,7 @@ authors:
   - admin
   - Marcelo A. Dias
 publication: Journal of the Mechanics and Physics of Solids, _In Press_
-abstract: ''
+abstract: ""
 links:
   - icon: link
     icon_pack: fas

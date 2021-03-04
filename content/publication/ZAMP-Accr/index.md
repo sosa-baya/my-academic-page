@@ -8,7 +8,7 @@ authors:
   - admin
   - Arash Yavari
 publication: Zeitschrift für Angewandte Mathematik und Physik, 71(3)
-abstract: ''
+abstract: ""
   links:
   - icon: link
     icon_pack: fas
