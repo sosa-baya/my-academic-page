@@ -22,9 +22,9 @@ url_pdf: ""
 url_poster: ""
 url_code: ""
 links:
-  - icon: link
+  - icon: university
     icon_pack: fas
-    name: Publisher
+    name: Thesis
     url: http://hdl.handle.net/1853/56350
 doi: null
 ---

@@ -18,9 +18,9 @@ url_slides: ""
 title: Geometric Nonlinear Thermoelasticity and the Time Evolution of Thermal Stresses
 tags: []
 links:
-  - icon: university
+  - icon: newspaper
     icon_pack: fas
-    name: Thesis
+    name: Publisher
     url: https://doi.org/10.1177%2F1081286515599458
 projects: []
 publishDate: 2015-09-14T00:00:00.000Z
