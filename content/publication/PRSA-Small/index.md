@@ -1,5 +1,5 @@
 ---
-title: Geometric Nonlinear Thermoelasticity and the Time Evolution of Thermal Stresses
+title: Small-on-Large Geometric Anelasticity
 publication_types:
   - "2"
 authors:
@@ -15,6 +15,6 @@ links:
     icon_pack: fas
     name: Publisher
     url: https://doi.org/10.1098/rspa.2016.0659
-date: 2021-03-03T10:59:23.706Z
+date: 2016-11-01T00:00:00.000Z
 publishDate: 2016-11-01T00:00:00.000Z
 ---
