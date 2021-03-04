@@ -6,13 +6,13 @@ authors:
   - admin
   - Arash Yavari
 publication: Proceedings of the Royal Society A, 472(2195)
-abstract: ""
+abstract: q
+date: 2016-11-01T00:00:00.000Z
 links:
   - icon: link
     icon_pack: fas
     name: Publisher
     url: https://doi.org/10.1098/rspa.2016.0659
-date: 2016-11-01T00:00:00.000Z
 publishDate: 2016-11-01T00:00:00.000Z
 ---
 <big><b>Abstract</b></big><br><br>
