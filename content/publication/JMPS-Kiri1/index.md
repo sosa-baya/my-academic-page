@@ -48,4 +48,4 @@ expressions for the stress fields and show the geometry of the e-cone to be gove
 elastica problem. This allows us to fully map out the space of solutions and investigate the stability
 of the post-buckled e-cone problem assuming mirror symmetric boundary conditions on the rotation of
 the lips on the open slit.</div>
-![Alt Text](mov.gif)
+![Alt Text](Mov-2.gif)
