@@ -14,12 +14,18 @@ featured: false
 date: 2016-11-17T00:00:00.000Z
 url_slides: ""
 title: Referential and Spatial Evolutions in Nonlinear Elasticity
+publication: Georgia Institute of Technology
 tags: []
 projects: []
 publishDate: 2016-11-17T00:00:00.000Z
-url_pdf: "https://smartech.gatech.edu/bitstream/handle/1853/56350/SADIK-DISSERTATION-2016.pdf?sequence=1&isAllowed=y"
+url_pdf: ""
 url_poster: ""
 url_code: ""
+links:
+  - icon: link
+    icon_pack: fas
+    name: Publisher
+    url: http://hdl.handle.net/1853/56350
 doi: null
 ---
 <big><big><b>Abstract</b></big></big>
