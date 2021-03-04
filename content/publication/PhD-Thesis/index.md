@@ -4,7 +4,7 @@ publication_types:
   - "7"
 authors:
   - admin
-abstract: null
+abstract: ""
 featured: false
 url_pdf: https://smartech.gatech.edu/bitstream/handle/1853/56350/SADIK-DISSERTATION-2016.pdf?sequence=1&isAllowed=y
 date: 2021-11-17T23:08:50.687Z
