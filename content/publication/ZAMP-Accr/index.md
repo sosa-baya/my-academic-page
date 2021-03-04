@@ -30,7 +30,7 @@ url_poster: ""
 url_code: ""
 doi: null
 ---
-<big><b>Abstract</b></big>
+<big><big><b>Abstract</b></big></big>
 <div style="text-align: justify">In this paper, we formulate a theory for the coupling of
 accretion mechanics and thermoelasticity. We present an analytical formulation of the thermoelastic
 accretion of an infinite cylinder and of a two-dimensional block. We develop numerical schemes for

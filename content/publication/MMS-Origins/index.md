@@ -1,8 +1,5 @@
 ---
-abstract: '<div style="text-align: justify">The objective of this short note is
-  to trace back the major contributions that led to the multiplicative
-  decomposition of the deformation gradient in finite plasticity, nonlinear
-  thermoelasticity, and growth mechanics.</div>'
+abstract: null
 url_pdf: ""
 publication_types:
   - "2"
@@ -32,3 +29,8 @@ url_poster: ""
 url_code: ""
 doi: null
 ---
+<big><big><b>Abstract</b></big></big>
+<div style="text-align: justify">The objective of this short note is
+  to trace back the major contributions that led to the multiplicative
+  decomposition of the deformation gradient in finite plasticity, nonlinear
+  thermoelasticity, and growth mechanics.</div>

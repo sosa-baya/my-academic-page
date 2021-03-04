@@ -1,19 +1,5 @@
 ---
-abstract: '<div style="text-align: justify">In this paper we formulate a
-  geometric theory of nonlinear thermoelasticity that can be used to calculate
-  the time evolution of temperature and thermal stress fields in a nonlinear
-  elastic body. In particular, this formulation can be used to calculate
-  residual thermal stresses. In this theory the material manifold (natural
-  stress-free configuration of the body) is a Riemannian manifold with a
-  temperature-dependent metric. Evolution of the geometry of the material
-  manifold is governed by a generalized heat equation. As examples, we consider
-  an infinitely long circular cylindrical bar with a cylindrically symmetric
-  temperature distribution and a spherical ball with a spherically-symmetric
-  temperature distribution. In both cases we assume that the body is made of an
-  arbitrary incompressible isotropic solid. We numerically solve for the
-  evolution of thermal stress fields induced by thermal inclusions in both a
-  cylindrical bar and a spherical ball, and compare the linear and nonlinear
-  solutions for a generalized neo-Hookean material.</div>'
+abstract: null
 url_pdf: ""
 publication_types:
   - "2"
@@ -42,3 +28,19 @@ url_poster: ""
 url_code: ""
 doi: null
 ---
+<big><big><b>Abstract</b></big></big>
+<div style="text-align: justify">In this paper we formulate a
+  geometric theory of nonlinear thermoelasticity that can be used to calculate
+  the time evolution of temperature and thermal stress fields in a nonlinear
+  elastic body. In particular, this formulation can be used to calculate
+  residual thermal stresses. In this theory the material manifold (natural
+  stress-free configuration of the body) is a Riemannian manifold with a
+  temperature-dependent metric. Evolution of the geometry of the material
+  manifold is governed by a generalized heat equation. As examples, we consider
+  an infinitely long circular cylindrical bar with a cylindrically symmetric
+  temperature distribution and a spherical ball with a spherically-symmetric
+  temperature distribution. In both cases we assume that the body is made of an
+  arbitrary incompressible isotropic solid. We numerically solve for the
+  evolution of thermal stress fields induced by thermal inclusions in both a
+  cylindrical bar and a spherical ball, and compare the linear and nonlinear
+  solutions for a generalized neo-Hookean material.</div>

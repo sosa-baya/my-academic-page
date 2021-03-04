@@ -1,15 +1,5 @@
 ---
-abstract: '<div style="text-align: justify">Eigenstrains are created as a result
-  of anelastic effects such as defects, temperature changes, bulk growth, etc.,
-  and strongly affect the overall response of solids. In this paper, we study
-  the residual stress and deformation fields of an incompressible, isotropic,
-  infinite wedge due to a circumferentially symmetric distribution of finite
-  eigenstrains. In particular, we establish explicit exact solutions for the
-  residual stresses and deformation of a neo-Hookean wedge containing a
-  symmetric inclusion with finite radial and circumferential eigenstrains. In
-  addition, we numerically solve for the residual stress field of a neo-Hookean
-  wedge induced by a symmetric Mooney–Rivlin inhomogeneity with finite
-  eigenstrains.</div>'
+abstract: null
 url_pdf: ""
 publication_types:
   - "2"
@@ -40,3 +30,15 @@ url_poster: ""
 url_code: ""
 doi: null
 ---
+<big><big><b>Abstract</b></big></big>
+<div style="text-align: justify">Eigenstrains are created as a result
+  of anelastic effects such as defects, temperature changes, bulk growth, etc.,
+  and strongly affect the overall response of solids. In this paper, we study
+  the residual stress and deformation fields of an incompressible, isotropic,
+  infinite wedge due to a circumferentially symmetric distribution of finite
+  eigenstrains. In particular, we establish explicit exact solutions for the
+  residual stresses and deformation of a neo-Hookean wedge containing a
+  symmetric inclusion with finite radial and circumferential eigenstrains. In
+  addition, we numerically solve for the residual stress field of a neo-Hookean
+  wedge induced by a symmetric Mooney–Rivlin inhomogeneity with finite
+  eigenstrains.</div>

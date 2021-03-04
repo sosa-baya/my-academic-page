@@ -1,15 +1,5 @@
 ---
-abstract: '<div style="text-align: justify">In this paper, we formulate a
-  nonlinear elasticity theory in which the ambient space is evolving. For a
-  continuum moving in an evolving ambient space, we model time dependency of the
-  metric by a time-dependent embedding of the ambient space in a larger manifold
-  with a fixed background metric. We derive both the tangential and the normal
-  governing equations. We then reduce the standard energy balance written in the
-  larger ambient space to that in the evolving ambient space. We consider
-  quasi-static deformations of the ambient space and show that a quasi-static
-  deformation of the ambient space results in stresses, in general. We linearize
-  the nonlinear theory about a reference motion and show that variation of the
-  spatial metric corresponds to an effective field of body forces.</div>'
+abstract: null
 url_pdf: ""
 publication_types:
   - "2"
@@ -39,3 +29,15 @@ url_poster: ""
 url_code: ""
 doi: null
 ---
+<big><big><b>Abstract</b></big></big>
+<div style="text-align: justify">In this paper, we formulate a
+  nonlinear elasticity theory in which the ambient space is evolving. For a
+  continuum moving in an evolving ambient space, we model time dependency of the
+  metric by a time-dependent embedding of the ambient space in a larger manifold
+  with a fixed background metric. We derive both the tangential and the normal
+  governing equations. We then reduce the standard energy balance written in the
+  larger ambient space to that in the evolving ambient space. We consider
+  quasi-static deformations of the ambient space and show that a quasi-static
+  deformation of the ambient space results in stresses, in general. We linearize
+  the nonlinear theory about a reference motion and show that variation of the
+  spatial metric corresponds to an effective field of body forces.</div>
