@@ -6,7 +6,8 @@ authors:
   - admin
   - Marcelo A. Dias
 publication: Journal of the Mechanics and Physics of Solids, _In Press_
-abstract: ""
+abstract: q
+date: 2021-02-23T00:00:00.000Z
 links:
   - icon: link
     icon_pack: fas
@@ -16,7 +17,6 @@ links:
     icon_pack: ai
     name: arXiv
     url: https://arxiv.org/abs/2009.03448
-date: 2021-02-23T00:00:00.000Z
 publishDate: 2021-02-23T00:00:00.000Z
 ---
 <big><b>Abstract</b></big><br><br>
