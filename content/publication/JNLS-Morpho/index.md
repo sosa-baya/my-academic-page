@@ -54,3 +54,5 @@ doi: null
   morphoelastic circular cylindrical shell subject to time-dependent internal
   pressure, and the residual stress of a morphoelastic planar circular
   shell.</div>
+
+![Alt Text](fig.png)

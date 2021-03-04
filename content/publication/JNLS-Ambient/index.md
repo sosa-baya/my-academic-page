@@ -41,3 +41,5 @@ doi: null
   deformation of the ambient space results in stresses, in general. We linearize
   the nonlinear theory about a reference motion and show that variation of the
   spatial metric corresponds to an effective field of body forces.</div>
+
+![Alt Text](fig.png)
