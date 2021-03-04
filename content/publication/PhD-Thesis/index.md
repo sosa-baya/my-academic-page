@@ -4,7 +4,14 @@ publication_types:
   - "7"
 authors:
   - admin
-abstract: In this PhD thesis, we propose a theoretical framework for studying
+abstract: null
+draft: false
+featured: false
+url_pdf: https://smartech.gatech.edu/bitstream/handle/1853/56350/SADIK-DISSERTATION-2016.pdf?sequence=1&isAllowed=y
+date: 2021-11-17T23:08:50.687Z
+---
+<big><big><b>Abstract</b></big></big>
+<div style="text-align: justify">In this PhD thesis, we propose a theoretical framework for studying
   referential and spatial evolutions in nonlinear elasticity. We use the
   referential evolution-- considering an evolving reference configuration-- to
   formulate a geometric theory of anelasticity. Indeed, an anelasticity source
@@ -30,12 +37,4 @@ abstract: In this PhD thesis, we propose a theoretical framework for studying
   insights on the theory of nonlinear elasticity as well as the case of a
   continuum deforming in an evolving ambient space, we formulate a theory of
   nonlinear elasticity where the geometry of the ambient space is
-  time-dependent.
-draft: false
-featured: false
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-date: 2021-03-04T23:08:50.687Z
----
+  time-dependent.</div>
