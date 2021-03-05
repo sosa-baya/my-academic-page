@@ -39,13 +39,13 @@ education:
       institution: "[Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA, USA"
       year: 2016
     - course: MSc, Mathematics
-      institution: Georgia Institute of Technology
+      institution: "[Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA, USA"
       year: 2014
     - course: MEng, Civil Engineering
-      institution: Ecole des Ponts ParisTech and Ecole Centrale Paris
+      institution: "[Ecole Hassania des Travaux Publics](https://www.ecoledesponts.fr/) and [Ecole Centrale Paris](http://www.ecp.fr/), Paris, France"
       year: 2012
     - course: Diplôme d'Ingénieur, Civil Engineering
-      institution: Ecole Hassania des Travaux Publics
+      institution: "[Ecole Hassania des Travaux Publics](http://www.ehtp.ac.ma/), Casablanca, Morocco"
       year: 2010
 email: souhayl.sadik@mpe.au.dk
 superuser: true
