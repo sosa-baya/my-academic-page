@@ -36,7 +36,7 @@ organizations:
 education:
   courses:
     - course: PhD, Engineering Science and Mechanics
-      institution: Georgia Institute of Technology
+      institution: "[Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA, USA"
       year: 2016
     - course: MSc, Mathematics
       institution: Georgia Institute of Technology
