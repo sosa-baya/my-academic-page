@@ -50,6 +50,7 @@ experience:
   - title: Fulbright Scholar – Graduate Research Assistant
     company: College of Engineering, Georgia Institute of Technology
     company_url: 'https://coe.gatech.edu/'
+    company_logo: "media/GT.png"
     location: Atlanta, GA, USA
     date_start: '2012-08-01'
     date_end: '2016-12-31'
