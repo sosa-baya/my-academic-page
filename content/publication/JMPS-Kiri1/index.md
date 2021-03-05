@@ -22,10 +22,10 @@ links:
     icon_pack: fas
     name: Publisher
     url: https://doi.org/10.1016/j.jmps.2021.104370
-  - icon: archiv
-    icon_pack: arxiv
+  - icon: arxiv
+    icon_pack: ai
     name: ArXiv
-    url: https://arxiv.org/pdf/2009.03448
+    url: https://arxiv.org/abs/2009.03448
 projects: []
 publishDate: 2021-02-23T00:00:00.000Z
 url_poster: ""
