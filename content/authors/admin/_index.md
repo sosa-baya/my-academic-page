@@ -30,6 +30,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/souhayl-sadik-1673217b/
+  - icon: cv
+    icon_pack: ai
+    link: media/Sadik_S_CV.pdf
 organizations:
   - name: Department of Mechanical and Production Engineering, Aarhus University
     url: https://mpe.au.dk/en/
