@@ -14,7 +14,7 @@ featured: false
 date: 2016-11-17T00:00:00.000Z
 url_slides: ""
 title: Referential and Spatial Evolutions in Nonlinear Elasticity
-publication: (Doctoral dissertation, Georgia Institute of Technology)
+publication: (Doctoral Dissertation, Georgia Institute of Technology)
 tags: []
 projects: []
 publishDate: 2016-11-17T00:00:00.000Z
