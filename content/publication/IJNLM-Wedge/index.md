@@ -27,7 +27,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
-    url: media/Sadik_S_CV.pdf
+    url: media/IJNLM-Wedge.pdf
 projects: []
 publishDate: 2016-04-26T00:00:00.000Z
 url_poster: ""

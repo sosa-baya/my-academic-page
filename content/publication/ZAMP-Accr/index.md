@@ -23,7 +23,11 @@ links:
   - icon: newspaper
     icon_pack: fas
     name: Publisher
-    url: https://doi.org/10.1007/s00033-020-01309-5
+    url: https://doi.org/10.1007/s00033-020-01309-5https://doi.org/10.1016/j.ijnonlinmec.2016.04.007
+  - icon: file-pdf
+    icon_pack: fas
+    name: Preprint
+    url: media/ZAMP-Accr.pdf
 projects: []
 publishDate: 2020-05-15T00:00:00.000Z
 url_poster: ""

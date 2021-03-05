@@ -22,7 +22,11 @@ links:
   - icon: newspaper
     icon_pack: fas
     name: Publisher
-    url: https://doi.org/10.1007/s00332-016-9315-8
+    url: https://doi.org/10.1007/s00332-016-9315-8https://doi.org/10.1016/j.ijnonlinmec.2016.04.007
+  - icon: file-pdf
+    icon_pack: fas
+    name: Preprint
+    url: media/JNLS-Ambient.pdf
 projects: []
 publishDate: 2016-07-01T00:00:00.000Z
 url_poster: ""

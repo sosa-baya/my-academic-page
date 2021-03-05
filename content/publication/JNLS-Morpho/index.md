@@ -23,7 +23,11 @@ links:
   - icon: newspaper
     icon_pack: fas
     name: Publisher
-    url: https://doi.org/10.1007/s00332-016-9294-9
+    url: https://doi.org/10.1007/s00332-016-9294-9https://doi.org/10.1016/j.ijnonlinmec.2016.04.007
+  - icon: file-pdf
+    icon_pack: fas
+    name: Preprint
+    url: media/JNLS-Morpho.pdf
 projects: []
 publishDate: 2016-05-25T00:00:00.000Z
 url_poster: ""
