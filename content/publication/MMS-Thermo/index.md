@@ -22,8 +22,8 @@ links:
     icon_pack: fas
     name: Publisher
     url: https://doi.org/10.1177%2F1081286515599458
-  - icon: iMech
-    icon_pack: custom
+  - icon: file_pdf
+    icon_pack: fas
     name: iMechanica
     url: https://imechanica.org/files/Thermoelasticity.pdf
 projects: []
