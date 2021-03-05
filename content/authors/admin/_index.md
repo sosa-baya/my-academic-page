@@ -38,6 +38,7 @@ education:
     - course: PhD, Engineering Science and Mechanics
       institution: Georgia Institute of Technology
       year: 2016
+      logo: "GT.png"
     - course: MSc, Mathematics
       institution: Georgia Institute of Technology
       year: 2014
