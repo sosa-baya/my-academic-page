@@ -22,6 +22,10 @@ links:
     icon_pack: fas
     name: Publisher
     url: https://doi.org/10.1098/rspa.2016.0659
+  - icon: open-access
+    icon_pack: ai
+    name: Article
+    url: https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2016.0659
 projects: []
 publishDate: 2016-11-01T00:00:00.000Z
 url_poster: ""
