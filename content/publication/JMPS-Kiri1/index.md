@@ -11,7 +11,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: Journal of the Mechanics and Physics of Solids, <em>In Press</em>
+publication: Journal of the Mechanics and Physics of Solids, 151(104370)
 featured: false
 date: 2021-02-23T00:00:00.000Z
 url_slides: ""
