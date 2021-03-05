@@ -45,7 +45,7 @@ education:
       institution: Ecole des Ponts ParisTech and Ecole Centrale Paris
       year: 2012
     - course: Diplôme d'Ingénieur, Civil Engineering
-      institution: Ecole Hassania des Travaux Publics
+      institution: <a href="http://www.ehtp.ac.ma/">link Ecole Hassania des Travaux Publics</a>
       year: 2010
 email: souhayl.sadik@mpe.au.dk
 superuser: true
