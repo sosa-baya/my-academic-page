@@ -40,7 +40,6 @@ education:
       year: 2016
     - course: MSc, Mathematics
       institution: Georgia Institute of Technology
-      institution_url: 'https://www.gatech.edu/'
       year: 2014
     - course: MEng, Civil Engineering
       institution: Ecole des Ponts ParisTech and Ecole Centrale Paris
