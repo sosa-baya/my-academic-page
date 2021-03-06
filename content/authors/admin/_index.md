@@ -34,7 +34,8 @@ social:
     icon_pack: ai
     link: media/Sadik_S_CV.pdf
 organizations:
-  - name: Department of Mechanical and Production Engineering,<br>Aarhus University
+  - name: Department of Mechanical and Production Engineering,
+          Aarhus University
     url: https://mpe.au.dk/en/
 education:
   courses:
