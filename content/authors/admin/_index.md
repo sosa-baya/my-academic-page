@@ -46,10 +46,10 @@ education:
       institution: "[Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA, USA"
       year: 2014
     - course: MEng, Civil Engineering
-      institution: "[École des Ponts ParisTech](https://www.ecoledesponts.fr/) & [École Centrale Paris](http://www.ecp.fr/), Paris, France"
+      institution: "[Ã‰cole des Ponts ParisTech](https://www.ecoledesponts.fr/) & [Ã‰cole Centrale Paris](http://www.ecp.fr/), Paris, France"
       year: 2012
-    - course: Dipôme d'Ingénieur, Civil Engineering
-      institution: "[École Hassania des Travaux Publics](http://www.ehtp.ac.ma/), Casablanca, Morocco"
+    - course: DipÃ´me d'IngÃ©nieur, Civil Engineering
+      institution: "[Ã‰cole Hassania des Travaux Publics](http://www.ehtp.ac.ma/), Casablanca, Morocco"
       year: 2010
 email: souhayl.sadik@mpe.au.dk
 superuser: true
@@ -58,6 +58,6 @@ highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Sadik_S_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
 ---
 <div style="text-align: justify">Originally from Beni-Mellal, Morocco, I am currently based in Aarhus, Denmark, where I am a postdoctoral researcher in the Mechanical Metamaterials and Soft Matter group within the Department of Mechanical and Production Engineering at Aarhus University.</div><br>
-<div style="text-align: justify">I was educated in Morocco, France, and the United States in engineering, mechanics, and mathematics. My research interests lie at the crossroads of  these fields with a view on industrial applications such as in mechanical, structural, and materials engineering; and on exploring the mechanics of naturally occurring phenomena, such as biological growth and morphogenesis.</div><br>
+<div style="text-align: justify">I was educated in Morocco, France, and the United States in engineering, mechanics, and mathematics. My research interests lie at the crossroads of these fields with a view on industrial applications such as in mechanical, structural, and materials engineering; and on exploring the mechanics of naturally occurring phenomena, such as biological growth and morphogenesis.</div><br>
 <div style="text-align: justify">My other passions in life are dance, hiking, and human connection.</div>
 
