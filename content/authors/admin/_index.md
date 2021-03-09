@@ -46,7 +46,7 @@ education:
       institution: "[Georgia Institute of Technology](https://www.gatech.edu/), Atlanta, GA, USA"
       year: 2014
     - course: MEng, Civil Engineering
-      institution: "[École des Ponts ParisTech](https://www.ecoledesponts.fr/) & [École Centrale Paris](http://www.ecp.fr/), Paris, France"
+      institution: "[École des Ponts ParisTech](https://www.ecoledesponts.fr/), Paris, France<br>[École Centrale Paris](http://www.ecp.fr/), Paris, France"
       year: 2012
     - course: Dipôme d'Ingénieur, Civil Engineering
       institution: "[École Hassania des Travaux Publics](http://www.ehtp.ac.ma/), Casablanca, Morocco"
