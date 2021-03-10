@@ -53,10 +53,6 @@ experience:
     location: Atlanta, GA, USA
     date_start: '2012-08-01'
     date_end: '2016-12-31'
-    description:
-<div>
-<a href="http://www.fulbrightonline.org/"><img src="/media/Fulbright.png" style="max-height:50px;"/></a>
-<a href="https://gatech.edu/"><img src="/media/GT2.png" style="max-height:50px;"/></a>
-</div>
+    description:<div><a href="http://www.fulbrightonline.org/"><img src="/media/Fulbright.png" style="max-height:50px;"/></a><a href="https://gatech.edu/"><img src="/media/GT2.png" style="max-height:50px;"/></a></div>
 
 ---
