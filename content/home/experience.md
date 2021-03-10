@@ -54,35 +54,9 @@ experience:
     date_start: '2012-08-01'
     date_end: '2016-12-31'
     description:
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
-<div class="row">
-  <div class="column">
-    <a href="http://www.fulbrightonline.org/"><img src="/media/Fulbright.png" style="max-height:50px;"></a>
-  </div>
-  <div class="column">
-    <a href="https://gatech.edu/"><img src="/media/GT2.png" style="max-height:50px;"></a>
-  </div>
+<div>
+<a href="http://www.fulbrightonline.org/"><img src="/media/Fulbright.png" style="max-height:50px;"></a>
+<a href="https://gatech.edu/"><img src="/media/GT2.png" style="max-height:50px;"></a>
 </div>
+
 ---
