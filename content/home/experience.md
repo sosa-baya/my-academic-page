@@ -31,7 +31,7 @@ experience:
     location: Aarhus, Denmark
     date_start: '2019-08-01'
     date_end: ''
-#    description: <a href="https://mpe.au.dk/en/"><img src="/media/MPE-AU.png" style="max-height:75px;"></a>
+    description: <a href="https://mpe.au.dk/en/"><img src="/media/MPE-AU.png" style="max-height:75px;"></a>
         
   - title: Dresden Junior Fellow
     company: Institute of Scientific Computing, Faculty of Mathematics, TU Dresden
@@ -39,6 +39,7 @@ experience:
     location: Dresden, Germany
     date_start: '2019-02-01'
     date_end: '2019-05-01'
+    description: <a href="https://tu-dresden.de/?set_language=en"><img src="/media/TU-D.png" style="max-height:75px;"></a>
 
   - title: Postdoctoral Research Fellow
     company: Max Planck Institute for Mathematics in the Sciences
@@ -46,6 +47,7 @@ experience:
     location: Leipzig, Germany
     date_start: '2017-01-01'
     date_end: '2019-01-31'
+    description: <a href="https://www.mis.mpg.de/"><img src="/media/MPI.png" style="max-height:75px;"></a>
 
   - title: Fulbright Scholar – Graduate Research Assistant
     company: College of Engineering, Georgia Institute of Technology
@@ -53,6 +55,6 @@ experience:
     location: Atlanta, GA, USA
     date_start: '2012-08-01'
     date_end: '2016-12-31'
-#    description: <a href="http://fulbrightonline.org/"><img src="/media/Fulbright.png" style="max-height:50px;"></a><a href="https://gatech.edu/"><img src="/media/GT2.png" style="max-height:75px;"></a>
+    description: <a href="https://gatech.edu/"><img src="/media/GT2.png" style="max-height:75px;"></a>
 
 ---
