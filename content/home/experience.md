@@ -31,7 +31,7 @@ experience:
     location: Aarhus, Denmark
     date_start: '2019-08-01'
     date_end: ''
-    description: <a href="https://mpe.au.dk/en/"><img src="/media/MPE-AU.png" style="max-height:100px;"></a>
+    description: <a href="https://mpe.au.dk/en/"><img src="/media/MPE-AU.png" style="max-height:75px;"></a>
         
   - title: Dresden Junior Fellow
     company: Institute of Scientific Computing, Faculty of Mathematics, TU Dresden
@@ -54,7 +54,7 @@ experience:
     date_start: '2012-08-01'
     date_end: '2016-12-31'
     description:
-<a href="http://fulbrightonline.org/"><img src="/media/Fulbright.png" style="max-height:100px;"></a>
-<a href="https://gatech.edu/"><img src="/media/GT2.png" style="max-height:100px;"></a>
+<a href="http://fulbrightonline.org/"><img src="/media/Fulbright.png" style="max-height:75px;"></a>
+<a href="https://gatech.edu/"><img src="/media/GT2.png" style="max-height:75px;"></a>
 
 ---
