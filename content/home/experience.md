@@ -53,4 +53,5 @@ experience:
     location: Atlanta, GA, USA
     date_start: '2012-08-01'
     date_end: '2016-12-31'
+    description: <a href="https://coe.gatech.edu/"><img src="/media/GT.png" style="max-height:200px;"></a>
 ---
