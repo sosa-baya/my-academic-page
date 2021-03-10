@@ -31,7 +31,7 @@ experience:
     location: Aarhus, Denmark
     date_start: '2019-08-01'
     date_end: ''
-    description: ![Alt Text]('/media/GT.png')
+    description: <img src="/media/GT.png">
         
   - title: Dresden Junior Fellow
     company: Institute of Scientific Computing, Faculty of Mathematics, TU Dresden
