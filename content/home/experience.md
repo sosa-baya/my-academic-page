@@ -49,7 +49,7 @@ experience:
     date_end: '2019-01-31'
     description: <a href="https://www.mis.mpg.de/"><img src="/media/MPI.png" style="max-height:50px;"></a>
 
-  - title: Fulbright Scholar – Graduate Research Assistant
+  - title: Graduate Research Assistant – Fulbright Scholar
     company: College of Engineering, Georgia Institute of Technology
     company_url: 'https://coe.gatech.edu/'
     location: Atlanta, GA, USA
