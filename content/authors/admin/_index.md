@@ -35,7 +35,7 @@ social:
     display:
       header: true
 organizations:
-  - name: Department of Mechanical and Production Engineering,
+  - name: Department of Mechanical and Production Engineering,<br>
           Aarhus University
     url: https://mpe.au.dk/en/
 education:
