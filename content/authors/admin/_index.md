@@ -17,22 +17,23 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=DJf53OsAAAAJ&hl=en
-  - display:
-      header: false
+  - icon: orcid
+    icon_pack: ai
     link: https://orcid.org/0000-0002-4880-5989
+  - icon: publons
     icon_pack: ai
-    icon: orcid
-  - display:
-      header: false
     link: https://publons.com/researcher/1635269/souhayl-sadik/
+  - icon: researchgate
     icon_pack: ai
-    icon: publons
+    link: https://www.researchgate.net/profile/Souhayl-Sadik
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/souhayl-sadik-1673217b/
   - icon: cv
     icon_pack: ai
     link: media/Sadik_S_CV.pdf
+    display:
+      header: true
 organizations:
   - name: Department of Mechanical and Production Engineering,
           Aarhus University
