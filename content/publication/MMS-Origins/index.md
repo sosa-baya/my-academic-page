@@ -22,7 +22,7 @@ links:
   - icon: newspaper
     icon_pack: fas
     name: Publisher
-    url: https://doi.org/10.1177%2F1081286515612280https://doi.org/10.1016/j.ijnonlinmec.2016.04.007
+    url: https://doi.org/10.1177%2F1081286515612280
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
