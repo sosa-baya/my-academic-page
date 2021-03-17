@@ -22,10 +22,14 @@ links:
     icon_pack: fas
     name: Publisher
     url: https://doi.org/10.1016/j.jmps.2021.104370
-  - icon: arxiv
-    icon_pack: ai
-    name: ArXiv
-    url: https://arxiv.org/abs/2009.03448
+  - icon: file-pdf
+    icon_pack: fas
+    name: Preprint
+    url: media/JMPS-Kiri1.pdf
+#  - icon: arxiv
+#    icon_pack: ai
+#    name: ArXiv
+#    url: https://arxiv.org/abs/2009.03448
 projects: []
 publishDate: 2021-02-23T00:00:00.000Z
 url_poster: ""
