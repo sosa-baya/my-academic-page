@@ -7,7 +7,7 @@ interests:
   - Solid Mechanics
   - Nonlinear Elasticity
   - Applied Mathematics
-  - Mechanical Metamaterials
+  - Mechanical Avanced Materials
   - Soft Materials
   - Morphoelasticity
 social:
