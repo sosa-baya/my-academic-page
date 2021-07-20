@@ -1,5 +1,5 @@
 ---
-title: Souhayl Sadik, PhD
+title: Souhayl Sadik
 role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
 bio: null
