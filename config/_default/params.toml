@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "souhayl.sadik@mpe.au.dk"
+email = "sosa@mpe.au.dk"
 # phone = "+45 52 60 10 61"
 
 # Address
