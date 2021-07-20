@@ -52,7 +52,7 @@ education:
     - course: Dipôme d'Ingénieur, Civil Engineering
       institution: "[École Hassania des Travaux Publics](http://www.ehtp.ac.ma/), Casablanca, Morocco"
       year: 2010
-email: souhayl.sadik@mpe.au.dk
+email: sosa@mpe.au.dk
 superuser: true
 highlight_name: true
 
