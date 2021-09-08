@@ -16,7 +16,7 @@ publication: ""
 featured: false
 date: 2021-02-23T00:00:00.000Z
 url_slides: ""
-title: 'On Local Kirigami Mechanics I: Stretchable creased solutions'
+title: 'On Local Kirigami Mechanics II: Stretchable creased solutions'
 tags: []
 links:
 #  - icon: newspaper
