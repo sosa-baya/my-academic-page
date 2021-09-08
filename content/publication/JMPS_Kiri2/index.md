@@ -14,7 +14,7 @@ url_source: ""
 url_video: ""
 publication: ""
 featured: false
-date: 2021-02-23T00:00:00.000Z
+date: 2021-09-07T00:00:00.000Z
 url_slides: ""
 title: 'On Local Kirigami Mechanics II: Stretchable creased solutions'
 tags: []
