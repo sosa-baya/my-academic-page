@@ -58,7 +58,7 @@ highlight_name: true
 
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Sadik_S_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
 ---
-<div style="text-align: justify">Originally from Beni-Mellal, Morocco, I am currently based in Aarhus, Denmark, where I am a postdoctoral researcher in the Mechanical Metamaterials and Soft Matter group within the Department of Mechanical and Production Engineering at Aarhus University.</div><br>
+<div style="text-align: justify">Originally from Beni-Mellal, Morocco, i am currently based in Aarhus, Denmark, where i work as a postdoctoral researcher in the Mechanical Metamaterials and Soft Matter group within the Department of Mechanical and Production Engineering at Aarhus University.</div><br>
 
 <div style="text-align: justify">I was educated and trained in Morocco, France, the United States, Germany, and Denmark in engineering, mechanics, and mathematics. At the crossroads of these fields, my research interests lie within the general area of theoretical solid mechanics with a view on industrial applications such as in mechanical, structural, and materials engineering; and on exploring the mechanics of naturally occurring phenomena, such as biological growth and morphogenesis.</div><br>
 
