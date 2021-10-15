@@ -51,4 +51,5 @@ for plates with finite thickness, and explore the full range of post-buckling (f
 as well as initial buckling (near-threshold) instability. Our local approach provides a fundamental
 understanding of kirigami phenomenology, underpinned by a proper theoretical approach to geometry and mechanics.
 </div>
+
 ![Alt Text](fig.png)
