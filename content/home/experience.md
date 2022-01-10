@@ -25,12 +25,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Tenure Track Assistant Professor
+    company: Department of Mechanical and Production Engineering, Aarhus University
+    company_url: 'https://mpe.au.dk/en/'
+    location: Aarhus, Denmark
+    date_start: '2022-01-01'
+    date_end: ''
+    description: <a href="https://international.au.dk/"><img src="/media/AU.png" style="max-height:50px;"></a>
+        
   - title: Postdoctoral Researcher
     company: Department of Mechanical and Production Engineering, Aarhus University
     company_url: 'https://mpe.au.dk/en/'
     location: Aarhus, Denmark
     date_start: '2019-08-01'
-    date_end: ''
+    date_end: '2021-12-31'
     description: <a href="https://international.au.dk/"><img src="/media/AU.png" style="max-height:50px;"></a>
         
   - title: Dresden Junior Fellow
