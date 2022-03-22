@@ -12,25 +12,25 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: "(Submitted)"
+publication: Journal of the Mechanics and Physics of Solids, 161(104812)
 featured: false
-date: 2021-09-07T00:00:00.000Z
+date: 2022-02-19T00:00:00.000Z
 url_slides: ""
 title: 'On Local Kirigami Mechanics II: Stretchable creased solutions'
 tags: []
 links:
-#  - icon: newspaper
-#    icon_pack: fas
-#    name: Publisher
-#    url: https://doi.org/10.1016/j.jmps.2021.104370
-#  - icon: file-pdf
-#    icon_pack: fas
-#    name: Preprint
-#    url: media/JMPS-Kiri2.pdf
+  - icon: newspaper
+    icon_pack: fas
+    name: Publisher
+    url: https://doi.org/10.1016/j.jmps.2022.104812
   - icon: arxiv
     icon_pack: ai
     name: ArXiv
     url: https://arxiv.org/abs/2109.03019
+  - icon: file-pdf
+    icon_pack: fas
+    name: Preprint
+    url: media/JMPS-Kiri2.pdf
 projects: []
 publishDate: 2021-09-07T00:00:00.000Z
 url_poster: ""
