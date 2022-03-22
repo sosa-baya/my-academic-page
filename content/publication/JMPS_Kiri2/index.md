@@ -16,7 +16,7 @@ publication: Journal of the Mechanics and Physics of Solids, 161(104812)
 featured: false
 date: 2022-02-19T00:00:00.000Z
 url_slides: ""
-title: 'On Local Kirigami Mechanics II: Stretchable creased solutions'
+title: 'On Local Kirigami Mechanics II: Stretchable Creased Solutions'
 tags: []
 links:
   - icon: newspaper
