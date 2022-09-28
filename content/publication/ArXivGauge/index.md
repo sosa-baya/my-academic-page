@@ -16,7 +16,7 @@ publication: arXiv:2209.13272
 featured: false
 date: 2022-09-28T00:00:00.000Z
 url_slides: ""
-title: 'Tangential Tensor Fields on Deformable Surfaces -- How to Derive Consistent L^2-Gradient Flows'
+title: 'Tangential Tensor Fields on Deformable Surfaces -- How to Derive Consistent $L^2$-Gradient Flows'
 tags: []
 links:
   - icon: arxiv
