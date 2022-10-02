@@ -2,7 +2,7 @@
 title: Souhayl Sadik
 role: Tenure Track Assistant Professor
 avatar_filename: avatar.jpg
-bio: null
+bio: Test
 interests:
   - Solid Mechanics
   - Nonlinear Elasticity
