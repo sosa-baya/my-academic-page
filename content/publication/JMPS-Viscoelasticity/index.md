@@ -28,7 +28,7 @@ url_poster: ""
 url_code: ""
 doi: null
 ---
-\accentset{e}{\mathbf{F}}
+\usepackage{accents}
 <big><big><b>Abstract</b></big></big>
 <div style="text-align: justify">In this paper we revisit the mathematical foundations of nonlinear viscoelasticity. We study the underlying geometry of viscoelastic deformations, and in particular, the intermediate configuration. 
 Starting from the multiplicative decomposition of deformation gradient into elastic and viscous parts $\mathbf{F}=\accentset{e}{\mathbf{F}}\accentset{v}{\mathbf{F}}\,$, we point out that $\accentset{v}{\mathbf{F}}$ can be either a material tensor ($\accentset{e}{\mathbf{F}}$ is a two-point tensor) or a two-point tensor ($\accentset{e}{\mathbf{F}}$ is a spatial tensor). We show that based on physical grounds the second choice is unacceptable.
