@@ -28,9 +28,10 @@ url_poster: ""
 url_code: ""
 doi: null
 ---
+\accentset{e}{\mathbf{F}}
 <big><big><b>Abstract</b></big></big>
 <div style="text-align: justify">In this paper we revisit the mathematical foundations of nonlinear viscoelasticity. We study the underlying geometry of viscoelastic deformations, and in particular, the intermediate configuration. 
-Starting from the multiplicative decomposition of deformation gradient into elastic and viscous parts $\mathbf{F}=\accentset{e}{\mathbf{F}}\accentset{v}{\mathbf{F}}\,$, we point out that $\Fv$ can be either a material tensor ($\Fe$ is a two-point tensor) or a two-point tensor ($\accentset{e}{\mathbf{F}}$ is a spatial tensor). We show that based on physical grounds the second choice is unacceptable.
+Starting from the multiplicative decomposition of deformation gradient into elastic and viscous parts $\mathbf{F}=\accentset{e}{\mathbf{F}}\accentset{v}{\mathbf{F}}\,$, we point out that $\accentset{v}{\mathbf{F}}$ can be either a material tensor ($\accentset{e}{\mathbf{F}}$ is a two-point tensor) or a two-point tensor ($\accentset{e}{\mathbf{F}}$ is a spatial tensor). We show that based on physical grounds the second choice is unacceptable.
 It is assumed that the free energy density is the sum of an equilibrium and a non-equilibrium part.
 The symmetry transformations and their action on the total, elastic, and viscous deformation gradients are carefully discussed. Following a two-potential approach the governing equations of nonlinear viscoelasticity are derived using the Lagrange-d'Alembert principle.
 We discuss the constitutive and kinetic equations for compressible and incompressible isotropic, transversely isotropic, orthotropic, and monoclinic viscoelastic solids.
