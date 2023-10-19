@@ -21,7 +21,7 @@ links:
   - icon: arxiv
     icon_pack: ai
     name: ArXiv
-    url: https://arxiv.org/abs/2309.16555v1
+    url: https://arxiv.org/abs/2309.16555
 projects: []
 publishDate: 
 url_poster: ""
