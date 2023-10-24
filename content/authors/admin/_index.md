@@ -25,9 +25,6 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Souhayl-Sadik
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/souhayl-sadik-1673217b/
   - icon: cv
     icon_pack: ai
     link: media/Sadik_S_CV.pdf
