@@ -25,10 +25,10 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Souhayl-Sadik
-  - icon: cv
-    icon_pack: ai
-    link: media/Sadik_S_CV.pdf
-    display:
+#  - icon: cv
+#    icon_pack: ai
+#    link: media/Sadik_S_CV.pdf
+display:
       header: true
 organizations:
   - name: Department of Mechanical and Production Engineering,
