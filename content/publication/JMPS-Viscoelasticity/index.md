@@ -21,7 +21,7 @@ links:
   - icon: newspaper
     icon_pack: fas
     name: Publisher
-    url: https://www.sciencedirect.com/science/article/pii/S002250962300265X
+    url: https://doi.org/10.1016/j.jmps.2023.105461
   - icon: arxiv
     icon_pack: ai
     name: ArXiv
