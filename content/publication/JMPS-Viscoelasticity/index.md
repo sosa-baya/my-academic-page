@@ -11,13 +11,17 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: Journal of the Mechanics and Physics of Solids, To Appear
+publication: Journal of the Mechanics and Physics of Solids, In Press
 featured: false
 date: 2023-09-28T00:00:00.000Z
 url_slides: ""
 title: 'Nonlinear Anisotropic Viscoelasticity'
 tags: []
 links:
+  - icon: newspaper
+    icon_pack: fas
+    name: Publisher
+    url: https://www.sciencedirect.com/science/article/pii/S002250962300265X
   - icon: arxiv
     icon_pack: ai
     name: ArXiv
