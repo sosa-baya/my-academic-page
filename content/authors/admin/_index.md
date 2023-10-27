@@ -28,8 +28,8 @@ social:
 #  - icon: cv
 #    icon_pack: ai
 #    link: media/Sadik_S_CV.pdf
-display:
-      header: true
+#    display:
+#      header: true
 organizations:
   - name: Department of Mechanical and Production Engineering,
           Aarhus University
