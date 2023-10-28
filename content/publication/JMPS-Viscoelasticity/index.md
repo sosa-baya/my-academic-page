@@ -11,9 +11,9 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: Journal of the Mechanics and Physics of Solids, In Press
+publication: Journal of the Mechanics and Physics of Solids, 182(105461)
 featured: false
-date: 2023-09-28T00:00:00.000Z
+date: 2023-10-20T00:00:00.000Z
 url_slides: ""
 title: 'Nonlinear Anisotropic Viscoelasticity'
 tags: []
