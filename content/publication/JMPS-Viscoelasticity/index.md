@@ -26,6 +26,10 @@ links:
     icon_pack: ai
     name: ArXiv
     url: https://arxiv.org/abs/2309.16555
+  - icon: file-pdf
+    icon_pack: fas
+    name: Preprint
+    url: media/JMPS-Viscoelasticity.pdf
 projects: []
 publishDate: 
 url_poster: ""
