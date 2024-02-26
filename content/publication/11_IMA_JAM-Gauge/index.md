@@ -14,17 +14,17 @@ url_source: ""
 url_video: ""
 publication: arXiv:2209.13272
 featured: false
-date: 2022-09-27T00:00:00.000Z
+date: 2024-02-19T00:00:00.000Z
 url_slides: ""
 title: 'Tangential Tensor Fields on Deformable Surfaces -- How to Derive Consistent $L^2$-Gradient Flows'
 tags: []
 links:
-  - icon: arxiv
-    icon_pack: ai
-    name: ArXiv
-    url: https://arxiv.org/abs/2209.13272
+  - icon: newspaper
+    icon_pack: fas
+    name: Publisher
+    url: https://doi.org/10.1093/imamat/hxae006
 projects: []
-publishDate: 2022-09-27T00:00:00.000Z
+publishDate:
 url_poster: ""
 url_code: ""
 doi: null

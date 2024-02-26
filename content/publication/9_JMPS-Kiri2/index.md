@@ -32,7 +32,7 @@ links:
     name: Preprint
     url: media/JMPS-Kiri2.pdf
 projects: []
-publishDate: 2021-09-07T00:00:00.000Z
+publishDate:
 url_poster: ""
 url_code: ""
 doi: null
