@@ -19,7 +19,7 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-4880-5989
-  - icon: publons
+  - icon: webofscience
     icon_pack: ai
     link: https://publons.com/researcher/1635269/souhayl-sadik/
   - icon: researchgate
