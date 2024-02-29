@@ -19,9 +19,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-4880-5989
-  - icon: webofscience
+  - icon: clarivate
     icon_pack: ai
-    link: https://publons.com/researcher/1635269/souhayl-sadik/
+    link: https://www.webofscience.com/wos/author/record/1200987
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Souhayl-Sadik
