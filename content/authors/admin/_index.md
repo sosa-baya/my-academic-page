@@ -9,7 +9,7 @@ interests:
   - Applied Mathematics
   - Soft Materials
   - Morphoelasticity
-social:
+profiles:
   - icon: envelope
     icon_pack: fas
     link: /#contact
