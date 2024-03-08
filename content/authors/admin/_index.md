@@ -22,9 +22,6 @@ social:
   - icon: publons
     icon_pack: ai
     link: https://www.webofscience.com/wos/author/record/1200987
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Souhayl-Sadik
 #  - icon: cv
 #    icon_pack: ai
 #    link: media/Sadik_S_CV.pdf
