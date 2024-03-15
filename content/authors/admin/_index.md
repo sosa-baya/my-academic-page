@@ -13,15 +13,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://pure.au.dk/portal/en/persons/sosa%40mpe.au.dk
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=DJf53OsAAAAJ&hl=en
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-4880-5989
-  - icon: publons
-    icon_pack: ai
-    link: https://www.webofscience.com/wos/author/record/1200987
+#  - icon: publons
+#    icon_pack: ai
+#    link: https://www.webofscience.com/wos/author/record/1200987
 #  - icon: cv
 #    icon_pack: ai
 #    link: media/Sadik_S_CV.pdf
