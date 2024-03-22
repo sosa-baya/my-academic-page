@@ -23,6 +23,10 @@ links:
     icon_pack: fas
     name: Publisher
     url: https://doi.org/10.1093/imamat/hxae006
+  - icon: file-pdf
+    icon_pack: fas
+    name: Preprint
+    url: media/IMA-JAM-GoI.pdf
 projects: []
 publishDate:
 url_poster: ""
