@@ -23,6 +23,10 @@ links:
     icon_pack: fas
     name: Publisher
     url: https://doi.org/10.1093/imamat/hxae006
+  - icon: arxiv
+    icon_pack: ai
+    name: ArXiv
+    url: https://arxiv.org/abs/2209.13272
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
