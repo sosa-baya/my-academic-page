@@ -12,7 +12,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: IMA Journal of Applied Mathematics, {\it in press}
+publication: IMA Journal of Applied Mathematics, in press
 featured: false
 date: 2024-02-19T00:00:00.000Z
 url_slides: ""
