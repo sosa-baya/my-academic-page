@@ -13,7 +13,7 @@ url_source: ""
 url_video: ""
 publication: arXiv:2403.14543
 featured: false
-date: 2024-03-22T00:00:00.000Z
+date: 2024-04-01T00:00:00.000Z
 url_slides: ""
 title: 'A Note on the Balance Laws of Nonlinear Hyperelasticity'
 tags: []
