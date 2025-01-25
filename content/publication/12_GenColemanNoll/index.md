@@ -15,7 +15,7 @@ publication: ""
 featured: false
 date: 2025-01-25T00:00:00.000Z
 url_slides: ""
-title: 'A Generalised Coleman-Noll Procedure and the Balance Laws of Hyper-Anelasticity'
+title: 'A Generalised Coleman-Noll Procedure and the Balance Laws of Hyper-Anelasticity 1'
 tags: []
 links:
     - icon: arxiv
