@@ -22,7 +22,7 @@ links:
     icon_pack: ai
     name: ArXiv
     url: https://arxiv.org/abs/2403.14543
-    - icon: file-pdf
+  - icon: file-pdf
     icon_pack: fas
     name: Preprint
     url: media/GenColemanNoll.pdf
