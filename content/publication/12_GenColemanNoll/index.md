@@ -2,7 +2,7 @@
 abstract: null
 url_pdf: ""
 publication_types:
-  - "2"
+  - "3"
 authors:
   - admin
   - Arash Yavari
@@ -15,10 +15,10 @@ publication: ""
 featured: false
 date: 2025-01-25T00:00:00.000Z
 url_slides: ""
-title: 'A Generalised Coleman-Noll Procedure and the Balance Laws of Hyper-Anelasticity 1'
+title: 'A Generalised Coleman-Noll Procedure and the Balance Laws of Hyper-Anelasticity'
 tags: []
 links:
-    - icon: arxiv
+  - icon: arxiv
     icon_pack: ai
     name: ArXiv
     url: https://arxiv.org/abs/2403.14543
