@@ -11,7 +11,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: "Preprint"
+publication: ""
 featured: false
 date: 2025-01-25T00:00:00.000Z
 url_slides: ""
