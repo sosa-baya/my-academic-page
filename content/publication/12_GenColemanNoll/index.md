@@ -18,7 +18,11 @@ url_slides: ""
 title: 'A Generalised Coleman-Noll Procedure and the Balance Laws of Hyper-Anelasticity'
 tags: []
 links:
-  - icon: file-pdf
+    - icon: arxiv
+    icon_pack: ai
+    name: ArXiv
+    url: https://arxiv.org/abs/2403.14543
+    - icon: file-pdf
     icon_pack: fas
     name: Preprint
     url: media/GenColemanNoll.pdf
