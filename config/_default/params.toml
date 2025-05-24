@@ -98,7 +98,7 @@ address = "Katrinebjergvej 89F, 5126-250, 8200 Aarhus N, Denmark"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "56.158913", longitude = "10.215615"}
+coordinates = {latitude = "56.172344", longitude = "10.191584"}
 
 # Directions for visitors to locate you.
 directions = ""
