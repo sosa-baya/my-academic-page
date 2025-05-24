@@ -93,7 +93,7 @@ email = "sosa@mpe.au.dk"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Inge Lehmanns Gade 10", city = "8000 Aarhus C", region = "", postcode = "Denmark", country = "Denmark", country_code = "DK"}
+address = {street = "Katrinebjergvej 89F, 5126, 250", city = "Aarhus N", region = "", postcode = "8200", country = "Denmark", country_code = "DK"}
 # address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
 
 # Geographic coordinates

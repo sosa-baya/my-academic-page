@@ -58,5 +58,5 @@ highlight_name: true
 
 <div style="text-align: justify">I was educated and trained in Morocco, France, the United States, Germany, and Denmark in engineering, mechanics, and mathematics. At the crossroads of these fields, my research interests lie within the general area of theoretical solid mechanics with a view on industrial applications such as in mechanical, structural, and materials engineering; and on exploring the mechanics of naturally occurring phenomena, such as biological growth and morphogenesis.</div><br>
 
-<div style="text-align: justify">My other passions in life include dance, hiking, and sailing.</div>
+<div style="text-align: justify">My other passions in life include sailing, hiking, Capoeira, and dancing.</div>
 
