@@ -18,6 +18,10 @@ url_slides: ""
 title: 'A Generalized Coleman-Noll Procedure and the Balance Laws of Hyper-Anelasticity'
 tags: []
 links:
+  - icon: newspaper
+    icon_pack: fas
+    name: Publisher
+    url: https://royalsocietypublishing.org/doi/10.1098/rspa.2025.0076
   - icon: arxiv
     icon_pack: ai
     name: ArXiv
@@ -25,7 +29,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
-    url: media/GenColemanNoll.pdf
+    url: media/PRSA_GenColemanNoll.pdf
 projects: []
 publishDate: 
 url_poster: ""
