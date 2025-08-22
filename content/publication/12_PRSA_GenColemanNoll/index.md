@@ -11,7 +11,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: ""
+publication: "Proceedings of the Royal Society A, 481(2320)"
 featured: false
 date: 2025-08-20T00:00:00.000Z
 url_slides: ""
