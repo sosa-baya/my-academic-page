@@ -2,7 +2,7 @@
 abstract: null
 url_pdf: ""
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
   - Arash Yavari
