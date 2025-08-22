@@ -13,7 +13,7 @@ url_source: ""
 url_video: ""
 publication: ""
 featured: false
-date: 2025-05-04T00:00:00.000Z
+date: 2025-08-20T00:00:00.000Z
 url_slides: ""
 title: 'A Generalized Coleman-Noll Procedure and the Balance Laws of Hyper-Anelasticity'
 tags: []
