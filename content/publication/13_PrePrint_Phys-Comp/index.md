@@ -20,6 +20,7 @@ tags: []
 links:
   - icon: mechanicsarxiv
     icon_pack: custom
+    name: MechanicsArXiv
     url: https://mechanicsarxiv.org/index.php/engineering/preprint/view/141
   - icon: file-pdf
     icon_pack: fas
