@@ -22,6 +22,10 @@ links:
     icon_pack: ai
     name: ArXiv
     url: https://arxiv.org/abs/2606.10801
+  - icon: mechanicsarxiv
+    icon_pack: custom
+    name: MechanicsArXiv
+    url: https://mechanicsarxiv.org/index.php/engineering/preprint/view/97
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
