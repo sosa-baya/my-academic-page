@@ -42,3 +42,15 @@ background-repeat: no-repeat;
 margin-left: -2.5em;
 margin-top: .25em ;
 }
+/* Custom SVG icons in publication `links:` (icon_pack: custom).
+   The SVG uses fill="currentColor", so it inherits the button's colour
+   in light mode, dark mode, and on hover. */
+.custom-link-icon {
+  display: inline-flex;
+  align-items: center;
+}
+.custom-link-icon svg {
+  height: 1.5em;
+  width: auto;
+  vertical-align: -0.35em;
+}

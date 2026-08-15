@@ -18,9 +18,8 @@ url_slides: ""
 title: 'On Physical Components of Tensors in Elasticity and Inelasticity'
 tags: []
 links:
-  - icon: external-link-alt
-    icon_pack: fas
-    name: MechanicsArXiv
+  - icon: mechanicsarxiv
+    icon_pack: custom
     url: https://mechanicsarxiv.org/index.php/engineering/preprint/view/141
   - icon: file-pdf
     icon_pack: fas
