@@ -15,7 +15,7 @@ publication: ""
 featured: false
 date: 2026-08-14T00:00:00.000Z
 url_slides: ""
-title: 'On Physical Components of Tensors \\in Elasticity and Inelasticity'
+title: 'On Physical Components of Tensors in Elasticity and Inelasticity'
 tags: []
 links:
   - icon: file-pdf
