@@ -11,13 +11,17 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: ""
+publication: "MechanicsArXiv:141"
 featured: false
 date: 2026-08-14T00:00:00.000Z
 url_slides: ""
 title: 'On Physical Components of Tensors in Elasticity and Inelasticity'
 tags: []
 links:
+  - icon: external-link-alt
+    icon_pack: fas
+    name: MechanicsArXiv
+    url: https://mechanicsarxiv.org/index.php/engineering/preprint/view/141
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
