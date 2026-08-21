@@ -11,13 +11,17 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: "MechanicsArXiv:141"
+publication: "arXiv:2608.14946"
 featured: false
 date: 2026-08-14T00:00:00.000Z
 url_slides: ""
 title: 'On Physical Components of Tensors in Elasticity and Inelasticity'
 tags: []
 links:
+  - icon: arxiv
+    icon_pack: ai
+    name: ArXiv
+    url: https://arxiv.org/abs/2608.14946
   - icon: mechanicsarxiv
     icon_pack: custom
     name: MechanicsArXiv
