@@ -26,7 +26,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
-    url: media/MMS-Origins.pdf
+    url: media/2017_SaYa_Origins.pdf
 projects: []
 publishDate: 2015-10-27T00:00:00.000Z
 url_poster: ""

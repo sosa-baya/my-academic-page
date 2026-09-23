@@ -25,7 +25,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
-    url: media/PRSA-Small.pdf
+    url: media/2016_SaYa_SmallOnLarge.pdf
 projects: []
 publishDate: 2016-11-01T00:00:00.000Z
 url_poster: ""

@@ -27,7 +27,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
-    url: media/ZAMP-Accr.pdf
+    url: media/2020_SoShSaYa_ThermoAccr.pdf
 projects: []
 publishDate: 2020-05-15T00:00:00.000Z
 url_poster: ""

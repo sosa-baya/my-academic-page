@@ -25,7 +25,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
-    url: media/MMS-Thermo.pdf
+    url: media/2017_SaYa_Thermo.pdf
 projects: []
 publishDate: 2015-09-14T00:00:00.000Z
 url_poster: ""

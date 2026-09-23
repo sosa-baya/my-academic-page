@@ -29,7 +29,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
-    url: media/2026_SaYa_Phys_Comp.pdf
+    url: media/2026_SaYa_Phys-Comp.pdf
 projects: []
 publishDate: 
 url_poster: ""

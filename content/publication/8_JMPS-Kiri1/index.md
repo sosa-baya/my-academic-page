@@ -29,7 +29,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
-    url: media/JMPS-Kiri1.pdf
+    url: media/2021_SaDi_Kiri1.pdf
 projects: []
 publishDate: 2021-02-23T00:00:00.000Z
 url_poster: ""

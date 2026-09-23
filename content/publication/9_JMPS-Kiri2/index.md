@@ -30,7 +30,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
-    url: media/JMPS-Kiri2.pdf
+    url: media/2022_SaWaDi_Kiri2.pdf
 projects: []
 publishDate:
 url_poster: ""

@@ -29,7 +29,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
-    url: media/JMPS-Viscoelasticity.pdf
+    url: media/2024_SaYa_Viscoelasticity.pdf
 projects: []
 publishDate: 
 url_poster: ""

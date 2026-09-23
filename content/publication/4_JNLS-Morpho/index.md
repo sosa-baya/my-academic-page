@@ -27,7 +27,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
-    url: media/JNLS-Morpho.pdf
+    url: media/2016_SaAnGoYa_Morpho.pdf
 projects: []
 publishDate: 2016-05-25T00:00:00.000Z
 url_poster: ""

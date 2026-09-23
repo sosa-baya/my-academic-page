@@ -29,7 +29,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
-    url: media/PRSA_GenColemanNoll.pdf
+    url: media/2025_SaYa_GenColemanNoll.pdf
 projects: []
 publishDate: 
 url_poster: ""

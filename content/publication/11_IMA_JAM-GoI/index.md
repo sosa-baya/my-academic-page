@@ -30,7 +30,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
-    url: media/IMA-JAM-GoI.pdf
+    url: media/2024_NiSaVo_GoI.pdf
 projects: []
 publishDate:
 url_poster: ""

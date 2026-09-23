@@ -26,7 +26,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
-    url: media/JNLS-Ambient.pdf
+    url: media/2016_YaOzSa_Ambient.pdf
 projects: []
 publishDate: 2016-07-01T00:00:00.000Z
 url_poster: ""
