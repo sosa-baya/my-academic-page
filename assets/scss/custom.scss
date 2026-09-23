@@ -59,13 +59,19 @@ margin-top: .25em ;
 }
 
 /* Custom SVG icons in the sidebar social row (author `social:` with icon_pack: custom).
-   The Scopus mark is a solid tile; at a full 1em it outweighs the line-art glyphs
-   beside it (ORCID's disc inks at 98% of the em box, Scholar and envelope at 76%).
-   0.82em is about equal-area with ORCID's disc, allowing for a square reading
-   heavier than a circle of the same size. */
+   Measured ink height at a 100px em: envelope 76, graduation-cap 76, Scholar 76,
+   Elsevier 76 -- ORCID 98. Four of five agree, so 0.76em is the house size.
+   The Scopus mark is a full-bleed tile (its ink IS the viewBox), so it takes that
+   figure directly. */
 .network-icon .custom-link-icon {
   vertical-align: middle;
 }
 .network-icon .custom-link-icon svg {
-  height: 0.82em;
+  height: 0.76em;
+}
+
+/* ORCID's glyph is a solid disc filling 98% of its em box, ~29% taller than every
+   other icon in the row. Scale it back to the same 76% so the row reads evenly. */
+.network-icon i.ai-orcid.big-icon {
+  font-size: 1.55rem; // 2rem * (76/98)
 }
