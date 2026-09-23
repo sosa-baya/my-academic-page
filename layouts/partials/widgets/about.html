@@ -44,6 +44,7 @@
 
       <ul class="network-icon" aria-hidden="true">
         {{ range $person.social }}
+        {{ $icon := .icon }}
         {{ $pack := or .icon_pack "fas" }}
         {{ $pack_prefix := $pack }}
         {{ if in (slice "fab" "fas" "far" "fal") $pack }}
@@ -59,7 +60,17 @@
         {{ end }}
         <li>
           <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
-            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+            {{- if eq $pack "custom" -}}
+              {{- /* CUSTOM ICON PACK: inline SVG from assets/images/icon-pack/<icon>.svg */ -}}
+              {{- $svg := resources.Get (printf "images/icon-pack/%s.svg" $icon) -}}
+              {{- with $svg -}}
+                <span class="custom-link-icon big-icon">{{ .Content | safeHTML }}</span>
+              {{- else -}}
+                {{- errorf "Custom icon `assets/images/icon-pack/%s.svg` not found (referenced in author social links)." $icon -}}
+              {{- end -}}
+            {{- else -}}
+              <i class="{{ $pack }} {{ $pack_prefix }}-{{ $icon }} big-icon"></i>
+            {{- end -}}
           </a>
         </li>
         {{ end }}

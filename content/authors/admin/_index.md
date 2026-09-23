@@ -19,8 +19,8 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=DJf53OsAAAAJ&hl=en
-  - icon: elsevier
-    icon_pack: ai
+  - icon: scopus
+    icon_pack: custom
     link: https://www.scopus.com/authid/detail.uri?authorId=57189374007
   - icon: orcid
     icon_pack: ai
