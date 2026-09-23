@@ -74,6 +74,15 @@ margin-top: .25em ;
   justify-content: center;
   height: 2rem;          // same as .big-icon font-size
   line-height: 1;
+
+  // The theme's global `a:hover` adds an underline. Harmless when the anchor
+  // was inline and glyph-sized, but the flex box above gives that underline a
+  // full-width box to draw across, so it shows as a line beneath the icon.
+  &,
+  &:hover,
+  &:focus {
+    text-decoration: none;
+  }
 }
 .network-icon li > a > i,
 .network-icon li > a > .custom-link-icon {
