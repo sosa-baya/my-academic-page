@@ -2,7 +2,7 @@
 abstract: null
 url_pdf: ""
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
   - Arash Yavari
@@ -11,13 +11,17 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: "arXiv:2606.10801"
+publication: "Journal of the Mechanics and Physics of Solids, 106861"
 featured: false
-date: 2026-06-09T00:00:00.000Z
+date: 2026-09-23T00:00:00.000Z
 url_slides: ""
 title: 'Nonlinear Anisotropic Visco-Anelasticity'
 tags: []
 links:
+  - icon: newspaper
+    icon_pack: fas
+    name: Publisher
+    url: https://doi.org/10.1016/j.jmps.2026.106861
   - icon: arxiv
     icon_pack: ai
     name: ArXiv
