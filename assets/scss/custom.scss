@@ -58,20 +58,38 @@ margin-top: .25em ;
   width: auto;
 }
 
-/* Custom SVG icons in the sidebar social row (author `social:` with icon_pack: custom).
-   Measured ink height at a 100px em: envelope 76, graduation-cap 76, Scholar 76,
-   Elsevier 76 -- ORCID 98. Four of five agree, so 0.76em is the house size.
-   The Scopus mark is a full-bleed tile (its ink IS the viewBox), so it takes that
-   figure directly. */
-.network-icon .custom-link-icon {
-  vertical-align: middle;
+/* ---- Sidebar social icon row: systematic normalisation ----------------------
+   Measured ink height at a 100px em: envelope 76, graduation-cap 76,
+   Scholar 76, Elsevier 76 -- ORCID 98. Four of five agree, so 76% is the
+   house size and ORCID is the outlier.
+
+   Sizing alone is not enough: these icons are inline, so each one sits on its
+   own baseline. Shrinking ORCID's font-size moves its baseline and lifts the
+   glyph relative to its neighbours. Centring each icon inside a fixed-height
+   flex box removes the baseline from the equation entirely, so every icon
+   shares one centre line whatever its size. */
+.network-icon li > a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 2rem;          // same as .big-icon font-size
+  line-height: 1;
 }
-.network-icon .custom-link-icon svg {
-  height: 0.76em;
+.network-icon li > a > i,
+.network-icon li > a > .custom-link-icon {
+  display: block;
+  line-height: 1;
 }
 
-/* ORCID's glyph is a solid disc filling 98% of its em box, ~29% taller than every
-   other icon in the row. Scale it back to the same 76% so the row reads evenly. */
+/* ORCID's glyph is a solid disc filling 98% of its em box, ~29% taller than
+   every other icon. Scale it back to the same 76%. */
 .network-icon i.ai-orcid.big-icon {
-  font-size: 1.55rem; // 2rem * (76/98)
+  font-size: 1.55rem;    // 2rem * (76/98)
+}
+
+/* The Scopus mark is a full-bleed tile, so its ink IS its box: set it to the
+   same 76% directly. */
+.network-icon .custom-link-icon svg {
+  height: 0.76em;
+  width: auto;
 }
