@@ -10,12 +10,15 @@ interests:
   - Soft Materials
   - Morphoelasticity
 social:
-  # Ordered by how a visitor is most likely to use them:
-  # direct contact first, then the profiles they will actually click
-  # (Scholar > ORCID > the two indexing databases), institutional page last.
+  # Ordered by how a visitor is most likely to use them: direct contact first,
+  # then the institutional profile, then the publication profiles
+  # (Scholar > ORCID > the two indexing databases).
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://pure.au.dk/portal/en/persons/sosa%40mpe.au.dk
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=DJf53OsAAAAJ&hl=en
@@ -28,9 +31,6 @@ social:
   - icon: web-of-science
     icon_pack: custom
     link: https://www.webofscience.com/wos/author/record/1200987
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://pure.au.dk/portal/en/persons/sosa%40mpe.au.dk
 #  - icon: cv
 #    icon_pack: ai
 #    link: media/Sadik_S_CV.pdf
