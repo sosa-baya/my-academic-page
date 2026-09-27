@@ -25,8 +25,8 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-4880-5989
-  - icon: publons
-    icon_pack: ai
+  - icon: clarivate
+    icon_pack: custom
     link: https://www.webofscience.com/wos/author/record/1200987
 #  - icon: cv
 #    icon_pack: ai
