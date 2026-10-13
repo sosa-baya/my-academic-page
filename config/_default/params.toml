@@ -93,12 +93,12 @@ email = "sosa@mpe.au.dk"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Katrinebjergvej 89F, 5132-248", city = "8200 Aarhus N", region = "", postcode = "Denmark", country = "", country_code = "DK"}
+address = {street = "Katrinebjergvej 89G, 5132-248", city = "8200 Aarhus N", region = "", postcode = "Denmark", country = "", country_code = "DK"}
 # address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "56.172344", longitude = "10.191584"}
+coordinates = {latitude = "56.173007", longitude = "10.191876"}
 
 # Directions for visitors to locate you.
 directions = ""
