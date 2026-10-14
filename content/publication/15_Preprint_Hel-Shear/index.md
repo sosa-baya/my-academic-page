@@ -19,6 +19,10 @@ url_slides: ""
 title: 'On the Mathematical Structure of Helical Shear in Anelastic Continua'
 tags: []
 links:
+  - icon: mechanicsarxiv
+    icon_pack: custom
+    name: MechanicsArXiv
+    url: https://mechanicsarxiv.org/index.php/engineering/preprint/view/156
   - icon: file-pdf
     icon_pack: fas
     name: Preprint
