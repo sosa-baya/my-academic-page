@@ -12,13 +12,17 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: "Preprint"
+publication: "arXiv:2610.19221"
 featured: false
 date: 2026-10-13T00:00:00.000Z
 url_slides: ""
 title: 'On the Mathematical Structure of Helical Shear in Anelastic Continua'
 tags: []
 links:
+  - icon: arxiv
+    icon_pack: ai
+    name: ArXiv
+    url: https://arxiv.org/abs/2610.19221
   - icon: mechanicsarxiv
     icon_pack: custom
     name: MechanicsArXiv
