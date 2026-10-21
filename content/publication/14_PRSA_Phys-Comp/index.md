@@ -13,7 +13,7 @@ url_source: ""
 url_video: ""
 publication: "Proceedings of the Royal Society A, 20260855"
 featured: false
-date: 2026-08-14T00:00:00.000Z
+date: 2026-10-21T00:00:00.000Z
 url_slides: ""
 title: 'On Physical Components of Tensors in Elasticity and Inelasticity'
 tags: []
