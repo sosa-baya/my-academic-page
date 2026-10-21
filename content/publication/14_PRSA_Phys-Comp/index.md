@@ -2,7 +2,7 @@
 abstract: null
 url_pdf: ""
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
   - Arash Yavari
@@ -11,13 +11,17 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: "arXiv:2608.14946"
+publication: "Proceedings of the Royal Society A, 20260855"
 featured: false
 date: 2026-08-14T00:00:00.000Z
 url_slides: ""
 title: 'On Physical Components of Tensors in Elasticity and Inelasticity'
 tags: []
 links:
+  - icon: newspaper
+    icon_pack: fas
+    name: Publisher
+    url: https://doi.org/10.1098/rspa.2026.0855
   - icon: arxiv
     icon_pack: ai
     name: ArXiv
