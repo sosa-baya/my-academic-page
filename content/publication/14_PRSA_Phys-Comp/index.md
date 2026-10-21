@@ -11,7 +11,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: "Proceedings of the Royal Society A, 20260855"
+publication: "Proceedings of the Royal Society A (in press)"
 featured: false
 date: 2026-10-21T00:00:00.000Z
 url_slides: ""
