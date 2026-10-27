@@ -11,7 +11,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: "Journal of the Mechanics and Physics of Solids, 106861"
+publication: "Journal of the Mechanics and Physics of Solids, 219(106861)"
 featured: false
 date: 2026-09-23T00:00:00.000Z
 url_slides: ""
